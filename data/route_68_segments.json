@@ -5,51 +5,6 @@
             "type": "Feature",
             "properties": {
                 "type": "way",
-                "id": 24760042,
-                "tags": {
-                    "highway": "primary",
-                    "lanes": "3",
-                    "maxspeed": "50",
-                    "name": "Strada Aleksandr Pu\u0219kin",
-                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0430 \u041f\u0443\u0448\u043a\u0438\u043d\u0430",
-                    "oneway": "yes",
-                    "trolley_wire": "yes"
-                }
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.8245726,
-                        47.0170952
-                    ],
-                    [
-                        28.8246607,
-                        47.0171569
-                    ],
-                    [
-                        28.825353,
-                        47.0176457
-                    ],
-                    [
-                        28.8257106,
-                        47.0179026
-                    ],
-                    [
-                        28.8265652,
-                        47.0185166
-                    ],
-                    [
-                        28.826715,
-                        47.0186243
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
                 "id": 24760292,
                 "tags": {
                     "highway": "primary",
@@ -70,19 +25,19 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.838328,
-                        47.0282989
+                        28.8383095,
+                        47.0283124
                     ],
                     [
                         28.8382966,
                         47.0283454
                     ],
                     [
-                        28.8383,
-                        47.0283928
+                        28.8382892,
+                        47.0283899
                     ],
                     [
-                        28.8383136,
+                        28.8383071,
                         47.0284371
                     ],
                     [
@@ -90,8 +45,8 @@
                         47.0284777
                     ],
                     [
-                        28.8384269,
-                        47.0285351
+                        28.8384274,
+                        47.0285355
                     ]
                 ]
             }
@@ -116,24 +71,32 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8528223,
-                        47.0385135
+                        28.8526821,
+                        47.0384166
                     ],
                     [
-                        28.8529296,
-                        47.038569
+                        28.8529943,
+                        47.0385669
                     ],
                     [
-                        28.8532374,
-                        47.0387248
+                        28.8531696,
+                        47.0386639
                     ],
                     [
-                        28.8536579,
-                        47.0389301
+                        28.8533621,
+                        47.0387621
                     ],
                     [
-                        28.8540045,
-                        47.0391177
+                        28.8535385,
+                        47.0388412
+                    ],
+                    [
+                        28.8537131,
+                        47.0389143
+                    ],
+                    [
+                        28.8540771,
+                        47.0390814
                     ]
                 ]
             }
@@ -274,37 +237,33 @@
             "type": "Feature",
             "properties": {
                 "type": "way",
-                "id": 24797149,
+                "id": 24797058,
                 "tags": {
                     "highway": "primary",
                     "lanes": "3",
                     "maxspeed": "50",
-                    "name": "Bulevardul Mircea cel B\u0103tr\u00een",
-                    "name:ru": "\u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u041c\u0438\u0440\u0447\u0430 \u0447\u0435\u043b \u0411\u044d\u0442\u0440\u044b\u043d",
-                    "name_1": "bd. Mircea cel B\u0103tr\u00een",
-                    "old_name": "Bulevardul Kutuzov",
+                    "name": "Strada Me\u0219terul Manole",
+                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u041c\u0435\u0448\u0442\u0435\u0440\u0443\u043b \u041c\u0430\u043d\u043e\u043b\u0435",
+                    "old_name": "\u0443\u043b\u0438\u0446\u0430 \u0414\u043e\u0431\u0440\u043e\u0432\u043e\u043b\u044c\u0441\u043a\u043e\u0433\u043e",
                     "oneway": "yes",
-                    "trolley_wire": "yes"
+                    "trolley_wire": "yes",
+                    "turn:lanes": "through|through|through"
                 }
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8899126,
-                        47.0363538
+                        28.8898944,
+                        47.0356891
                     ],
                     [
-                        28.8898442,
-                        47.0366901
+                        28.8899209,
+                        47.0359373
                     ],
                     [
-                        28.8898527,
-                        47.036847
-                    ],
-                    [
-                        28.8898697,
-                        47.0370094
+                        28.8899206,
+                        47.0360992
                     ]
                 ]
             }
@@ -330,8 +289,8 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8528223,
-                        47.0385135
+                        28.8526821,
+                        47.0384166
                     ],
                     [
                         28.8524831,
@@ -364,27 +323,82 @@
                     "maxspeed": "50",
                     "name": "Bulevardul Rena\u0219terii Na\u021bionale",
                     "name:ru": "\u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u0420\u0435\u043d\u0430\u0448\u0442\u0435\u0440\u0438\u0439 \u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u0435",
-                    "oneway": "yes"
+                    "oneway": "yes",
+                    "surface": "asphalt"
                 }
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8538114,
-                        47.0407728
+                        28.8538362,
+                        47.0407752
                     ],
                     [
-                        28.8537857,
-                        47.0402242
+                        28.8538074,
+                        47.0403068
                     ],
                     [
-                        28.8537564,
-                        47.0397666
+                        28.8537892,
+                        47.040053
                     ],
                     [
-                        28.8537537,
-                        47.039431
+                        28.853748,
+                        47.0398024
+                    ],
+                    [
+                        28.8537271,
+                        47.0396502
+                    ],
+                    [
+                        28.8537049,
+                        47.0394144
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 24797742,
+                "tags": {
+                    "highway": "primary",
+                    "lanes": "3",
+                    "maxspeed": "50",
+                    "name": "Strada Me\u0219terul Manole",
+                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u041c\u0435\u0448\u0442\u0435\u0440\u0443\u043b \u041c\u0430\u043d\u043e\u043b\u0435",
+                    "old_name": "\u0443\u043b\u0438\u0446\u0430 \u0414\u043e\u0431\u0440\u043e\u0432\u043e\u043b\u044c\u0441\u043a\u043e\u0433\u043e",
+                    "oneway": "yes",
+                    "trolley_wire": "yes"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8889581,
+                        47.0359605
+                    ],
+                    [
+                        28.8890588,
+                        47.0357257
+                    ],
+                    [
+                        28.8890769,
+                        47.0356605
+                    ],
+                    [
+                        28.8890834,
+                        47.0355962
+                    ],
+                    [
+                        28.8890442,
+                        47.0351069
+                    ],
+                    [
+                        28.8888027,
+                        47.0329845
                     ]
                 ]
             }
@@ -450,6 +464,89 @@
                     [
                         28.8546972,
                         47.043276
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 24807847,
+                "tags": {
+                    "highway": "secondary",
+                    "lanes": "2",
+                    "name": "Strada Maria Dr\u0103gan",
+                    "name:ro": "Strada Maria Dr\u0103gan",
+                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u041c\u0430\u0440\u0438\u0438 \u0414\u0440\u044d\u0433\u0430\u043d"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8841003,
+                        47.031304
+                    ],
+                    [
+                        28.8840872,
+                        47.0311069
+                    ],
+                    [
+                        28.8840548,
+                        47.0307301
+                    ],
+                    [
+                        28.8839653,
+                        47.029874
+                    ],
+                    [
+                        28.8839482,
+                        47.0297103
+                    ],
+                    [
+                        28.883862,
+                        47.0288855
+                    ],
+                    [
+                        28.8838342,
+                        47.0286304
+                    ],
+                    [
+                        28.8837586,
+                        47.0279164
+                    ],
+                    [
+                        28.8837483,
+                        47.0278415
+                    ],
+                    [
+                        28.8835832,
+                        47.0263262
+                    ],
+                    [
+                        28.8835039,
+                        47.0255737
+                    ],
+                    [
+                        28.8832514,
+                        47.0233098
+                    ],
+                    [
+                        28.8831234,
+                        47.0221503
+                    ],
+                    [
+                        28.883097,
+                        47.0219114
+                    ],
+                    [
+                        28.8830535,
+                        47.0215261
+                    ],
+                    [
+                        28.882874,
+                        47.0199384
                     ]
                 ]
             }
@@ -549,6 +646,7 @@
                     "int_ref": "E 584",
                     "lanes": "3",
                     "name": "Strada Constantin T\u0103nase",
+                    "name:mo": "Strada Constantin T\u0103nase",
                     "name:ro": "Strada Constantin T\u0103nase",
                     "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\u0430 \u0422\u044d\u043d\u0430\u0441\u0435",
                     "oneway": "yes",
@@ -564,8 +662,8 @@
                         47.0275321
                     ],
                     [
-                        28.8387615,
-                        47.0279785
+                        28.8383095,
+                        47.0283124
                     ]
                 ]
             }
@@ -582,167 +680,20 @@
                     "maxspeed": "50",
                     "name": "Bulevardul Rena\u015fterii Na\u0163ionale",
                     "name:ru": "\u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u0420\u0435\u043d\u0430\u0448\u0442\u0435\u0440\u0438\u0439 \u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u0435",
-                    "old_name": "\u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u041c\u043e\u043b\u043e\u0434\u0451\u0436\u0438"
+                    "old_name": "\u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u041c\u043e\u043b\u043e\u0434\u0451\u0436\u0438",
+                    "surface": "asphalt"
                 }
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8538114,
-                        47.0407728
+                        28.8538362,
+                        47.0407752
                     ],
                     [
                         28.8537381,
                         47.0413644
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 25670306,
-                "tags": {
-                    "highway": "primary",
-                    "junction": "roundabout",
-                    "lanes": "3",
-                    "maxspeed": "50",
-                    "trolley_wire": "yes",
-                    "turn:lanes": "through|through|through"
-                }
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.8889581,
-                        47.0359605
-                    ],
-                    [
-                        28.8890865,
-                        47.0359019
-                    ],
-                    [
-                        28.8892571,
-                        47.0358731
-                    ],
-                    [
-                        28.8894301,
-                        47.0358754
-                    ],
-                    [
-                        28.8895793,
-                        47.0358954
-                    ],
-                    [
-                        28.8897235,
-                        47.0359518
-                    ],
-                    [
-                        28.8898336,
-                        47.0360249
-                    ],
-                    [
-                        28.8899206,
-                        47.0360992
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 25715773,
-                "tags": {
-                    "highway": "primary",
-                    "lanes": "3",
-                    "maxspeed": "50",
-                    "oneway": "yes",
-                    "trolley_wire": "yes"
-                }
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.8917403,
-                        47.0584565
-                    ],
-                    [
-                        28.8917081,
-                        47.0584857
-                    ],
-                    [
-                        28.891683,
-                        47.0585019
-                    ],
-                    [
-                        28.891631,
-                        47.0585195
-                    ],
-                    [
-                        28.8915633,
-                        47.0585282
-                    ],
-                    [
-                        28.8915036,
-                        47.0585273
-                    ],
-                    [
-                        28.8914372,
-                        47.0585191
-                    ],
-                    [
-                        28.8913876,
-                        47.0585017
-                    ],
-                    [
-                        28.891348,
-                        47.0584752
-                    ],
-                    [
-                        28.891283,
-                        47.0583874
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 25715774,
-                "tags": {
-                    "highway": "primary",
-                    "lanes": "3",
-                    "maxspeed": "50",
-                    "name": "Bulevardul Mircea cel B\u0103tr\u00een",
-                    "name:ru": "\u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u041c\u0438\u0440\u0447\u0430 \u0447\u0435\u043b \u0411\u044d\u0442\u0440\u044b\u043d",
-                    "name_1": "bd. Mircea cel B\u0103tr\u00een",
-                    "old_name": "Bulevardul Kutuzov",
-                    "oneway": "yes",
-                    "trolley_wire": "yes",
-                    "wikidata": "Q4381283",
-                    "wikipedia": "ro:Bulevardul Mircea cel B\u0103tr\u00e2n din Chi\u0219in\u0103u"
-                }
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.891283,
-                        47.0583874
-                    ],
-                    [
-                        28.8912716,
-                        47.0583414
-                    ],
-                    [
-                        28.8910024,
-                        47.0564993
                     ]
                 ]
             }
@@ -756,9 +707,9 @@
                     "highway": "primary",
                     "lanes": "2",
                     "maxspeed": "50",
-                    "name": "Strada Kiev",
-                    "name:ro": "Strada Kiev",
-                    "name:ru": "\u041a\u0438\u0435\u0432\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430",
+                    "name": "Strada Tudor Vladimirescu",
+                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u0422\u0443\u0434\u043e\u0440\u0430 \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u0435\u0441\u043a\u0443",
+                    "old_name": "\u0443\u043b\u0438\u0446\u0430 \u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0430",
                     "oneway": "yes",
                     "surface": "asphalt",
                     "trolley_wire": "yes"
@@ -768,24 +719,28 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8541111,
-                        47.0391396
+                        28.8540771,
+                        47.0390814
                     ],
                     [
-                        28.8543433,
-                        47.0391433
+                        28.854323,
+                        47.0391045
                     ],
                     [
-                        28.8548773,
-                        47.0391761
+                        28.8546225,
+                        47.0391375
                     ],
                     [
-                        28.8551454,
+                        28.8548936,
+                        47.0391678
+                    ],
+                    [
+                        28.8551559,
                         47.0391827
                     ],
                     [
-                        28.8555747,
-                        47.0392058
+                        28.8555783,
+                        47.0391935
                     ]
                 ]
             }
@@ -836,6 +791,34 @@
             "type": "Feature",
             "properties": {
                 "type": "way",
+                "id": 27835723,
+                "tags": {
+                    "highway": "service",
+                    "oneway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.885946,
+                        47.0056797
+                    ],
+                    [
+                        28.8860403,
+                        47.0052711
+                    ],
+                    [
+                        28.8869941,
+                        47.0046338
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
                 "id": 28127241,
                 "tags": {
                     "highway": "primary",
@@ -852,80 +835,28 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8537027,
-                        47.0393621
+                        28.8537049,
+                        47.0394144
                     ],
                     [
-                        28.8532421,
-                        47.038927
+                        28.8535234,
+                        47.0392166
                     ],
                     [
-                        28.8528223,
-                        47.0385135
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 28675453,
-                "tags": {
-                    "highway": "primary",
-                    "lanes": "2",
-                    "maxspeed": "50",
-                    "name": "Strada Alexei Mateevici",
-                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u0410\u043b\u0435\u043a\u0441\u0435\u044f \u041c\u0430\u0442\u0435\u0435\u0432\u0438\u0447\u0430",
-                    "old_name": "\u0421\u0430\u0434\u043e\u0432\u0430\u044f \u0443\u043b\u0438\u0446\u0430",
-                    "oneway": "no",
-                    "trolley_wire": "yes"
-                }
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.8245726,
-                        47.0170952
+                        28.8533685,
+                        47.039049
                     ],
                     [
-                        28.8236793,
-                        47.017921
+                        28.8531562,
+                        47.0388578
                     ],
                     [
-                        28.8231432,
-                        47.0184184
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 29497026,
-                "tags": {
-                    "highway": "primary",
-                    "lanes": "2",
-                    "maxspeed": "50",
-                    "name": "Strada Alexei Mateevici",
-                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u0410\u043b\u0435\u043a\u0441\u0435\u044f \u041c\u0430\u0442\u0435\u0435\u0432\u0438\u0447\u0430",
-                    "old_name": "\u0421\u0430\u0434\u043e\u0432\u0430\u044f \u0443\u043b\u0438\u0446\u0430",
-                    "oneway": "no",
-                    "trolley_wire": "yes"
-                }
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.8229752,
-                        47.0185804
+                        28.8529837,
+                        47.0387027
                     ],
                     [
-                        28.8228289,
-                        47.0187201
+                        28.8526821,
+                        47.0384166
                     ]
                 ]
             }
@@ -971,6 +902,7 @@
                     "int_ref": "E 584",
                     "lanes": "3",
                     "name": "Strada Constantin T\u0103nase",
+                    "name:mo": "Strada Constantin T\u0103nase",
                     "name:ro": "Strada Constantin T\u0103nase",
                     "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\u0430 \u0422\u044d\u043d\u0430\u0441\u0435",
                     "oneway": "yes",
@@ -982,12 +914,8 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8376926,
-                        47.0287261
-                    ],
-                    [
-                        28.8376269,
-                        47.02876
+                        28.8376843,
+                        47.028728
                     ],
                     [
                         28.8372382,
@@ -1013,9 +941,8 @@
                     "highway": "primary",
                     "lanes": "2",
                     "maxspeed": "50",
-                    "name": "Strada Kiev",
-                    "name:ro": "Strada Kiev",
-                    "name:ru": "\u041a\u0438\u0435\u0432\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430",
+                    "name": "Strada Tudor Vladimirescu",
+                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u0422\u0443\u0434\u043e\u0440\u0430 \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u0435\u0441\u043a\u0443",
                     "old_name": "\u0443\u043b\u0438\u0446\u0430 \u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0430",
                     "surface": "asphalt",
                     "trolley_wire": "yes"
@@ -1025,16 +952,133 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8576003,
-                        47.0390519
+                        28.8575679,
+                        47.0390445
                     ],
                     [
-                        28.856645,
-                        47.0391235
+                        28.8555783,
+                        47.0391935
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 32475898,
+                "tags": {
+                    "highway": "primary",
+                    "lanes": "1",
+                    "maxspeed": "50",
+                    "name": "Strada Voluntarilor",
+                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u0412\u043e\u043b\u0443\u043d\u0442\u0430\u0440\u0438\u043b\u043e\u0440",
+                    "oneway": "yes",
+                    "trolley_wire": "yes"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8879628,
+                        47.0117513
                     ],
                     [
-                        28.8560399,
-                        47.0391693
+                        28.8874864,
+                        47.012186
+                    ],
+                    [
+                        28.8874205,
+                        47.0122472
+                    ],
+                    [
+                        28.8873827,
+                        47.0122982
+                    ],
+                    [
+                        28.8873503,
+                        47.0123712
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 36704864,
+                "tags": {
+                    "highway": "primary",
+                    "lanes": "1",
+                    "maxspeed": "50",
+                    "name": "Strada Voluntarilor",
+                    "name:ro": "Strada Voluntarilor",
+                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u0412\u043e\u043b\u0443\u043d\u0442\u0430\u0440\u0438\u043b\u043e\u0440",
+                    "oneway": "yes",
+                    "trolley_wire": "yes"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8982001,
+                        46.9980144
+                    ],
+                    [
+                        28.8980554,
+                        46.997896
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 36704867,
+                "tags": {
+                    "highway": "primary_link",
+                    "lanes": "1",
+                    "maxspeed": "50",
+                    "name": "Strada Voluntarilor",
+                    "name:ro": "Strada Voluntarilor",
+                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u0412\u043e\u043b\u0443\u043d\u0442\u0430\u0440\u0438\u043b\u043e\u0440",
+                    "oneway": "yes",
+                    "trolley_wire": "yes"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8980554,
+                        46.997896
+                    ],
+                    [
+                        28.897936,
+                        46.9978529
+                    ],
+                    [
+                        28.8978892,
+                        46.997842
+                    ],
+                    [
+                        28.8978306,
+                        46.9978326
+                    ],
+                    [
+                        28.8977465,
+                        46.9978348
+                    ],
+                    [
+                        28.8976486,
+                        46.9978413
+                    ],
+                    [
+                        28.8975188,
+                        46.997858
                     ]
                 ]
             }
@@ -1070,331 +1114,6 @@
                     [
                         28.837063,
                         47.0259055
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 38910739,
-                "tags": {
-                    "highway": "primary",
-                    "lanes": "3",
-                    "maxspeed": "50",
-                    "name": "Strada Aleksandr Pu\u0219kin",
-                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0430 \u041f\u0443\u0448\u043a\u0438\u043d\u0430",
-                    "oneway": "yes",
-                    "trolley_wire": "yes"
-                }
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.826715,
-                        47.0186243
-                    ],
-                    [
-                        28.8273101,
-                        47.0190429
-                    ],
-                    [
-                        28.8281084,
-                        47.0196046
-                    ],
-                    [
-                        28.828204,
-                        47.0196719
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 40862822,
-                "tags": {
-                    "highway": "primary",
-                    "lanes": "3",
-                    "maxspeed": "50",
-                    "name": "Strada Mitropolit B\u0103nulescu-Bodoni",
-                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u041c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u0442\u0430 \u0411\u044d\u043d\u0443\u043b\u0435\u0441\u043a\u0443-\u0411\u043e\u0434\u043e\u043d\u0438",
-                    "old_name": "\u0443\u043b\u0438\u0446\u0430 \u0413\u043e\u0433\u043e\u043b\u044f",
-                    "oneway": "yes",
-                    "trolley_wire": "yes"
-                }
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.8237439,
-                        47.020585
-                    ],
-                    [
-                        28.8236233,
-                        47.0205075
-                    ],
-                    [
-                        28.8220785,
-                        47.0194367
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 40986056,
-                "tags": {
-                    "highway": "primary",
-                    "lanes": "3",
-                    "maxspeed": "50",
-                    "name": "Bulevardul Mircea cel B\u0103tr\u00een",
-                    "name:ru": "\u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u041c\u0438\u0440\u0447\u0430 \u0447\u0435\u043b \u0411\u044d\u0442\u0440\u044b\u043d",
-                    "name_1": "bd. Mircea cel B\u0103tr\u00een",
-                    "old_name": "Bulevardul Kutuzov",
-                    "oneway": "yes",
-                    "trolley_wire": "yes",
-                    "wikidata": "Q4381283",
-                    "wikipedia": "ro:Bulevardul Mircea cel B\u0103tr\u00e2n din Chi\u0219in\u0103u"
-                }
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.8909225,
-                        47.0524758
-                    ],
-                    [
-                        28.8910186,
-                        47.0531516
-                    ],
-                    [
-                        28.8911187,
-                        47.053826
-                    ],
-                    [
-                        28.8915072,
-                        47.0563398
-                    ],
-                    [
-                        28.89153,
-                        47.0564842
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 40986058,
-                "tags": {
-                    "highway": "primary",
-                    "lanes": "3",
-                    "maxspeed": "50",
-                    "name": "Bulevardul Mircea cel B\u0103tr\u00een",
-                    "name:ru": "\u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u041c\u0438\u0440\u0447\u0430 \u0447\u0435\u043b \u0411\u044d\u0442\u0440\u044b\u043d",
-                    "name_1": "bd. Mircea cel B\u0103tr\u00een",
-                    "old_name": "Bulevardul Kutuzov",
-                    "oneway": "yes",
-                    "trolley_wire": "yes",
-                    "wikidata": "Q4381283",
-                    "wikipedia": "ro:Bulevardul Mircea cel B\u0103tr\u00e2n din Chi\u0219in\u0103u"
-                }
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.8904123,
-                        47.0525228
-                    ],
-                    [
-                        28.8903579,
-                        47.0522568
-                    ],
-                    [
-                        28.8903207,
-                        47.0520154
-                    ],
-                    [
-                        28.8903073,
-                        47.0518859
-                    ],
-                    [
-                        28.8902886,
-                        47.0516913
-                    ],
-                    [
-                        28.8902502,
-                        47.0512845
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 40986059,
-                "tags": {
-                    "highway": "primary",
-                    "lanes": "3",
-                    "maxspeed": "50",
-                    "name": "Bulevardul Mircea cel B\u0103tr\u00e2n",
-                    "name:ro": "Bulevardul Mircea cel B\u0103tr\u00e2n",
-                    "name:ru": "\u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u041c\u0438\u0440\u0447\u0430 \u0447\u0435\u043b \u0411\u044d\u0442\u0440\u044b\u043d",
-                    "name_1": "Bulevardul Mircea cel B\u0103tr\u00e2n",
-                    "old_name": "Bulevardul Kutuzov",
-                    "oneway": "yes",
-                    "trolley_wire": "yes",
-                    "wikidata": "Q4381283",
-                    "wikipedia": "ro:Bulevardul Mircea cel B\u0103tr\u00e2n din Chi\u0219in\u0103u"
-                }
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.8906779,
-                        47.0445347
-                    ],
-                    [
-                        28.8907005,
-                        47.0446949
-                    ],
-                    [
-                        28.8907403,
-                        47.0452303
-                    ],
-                    [
-                        28.8907951,
-                        47.0463022
-                    ],
-                    [
-                        28.8908014,
-                        47.0465346
-                    ],
-                    [
-                        28.8907996,
-                        47.0466381
-                    ],
-                    [
-                        28.8907965,
-                        47.0468111
-                    ],
-                    [
-                        28.8907897,
-                        47.0471983
-                    ],
-                    [
-                        28.8907436,
-                        47.0479295
-                    ],
-                    [
-                        28.890681,
-                        47.049361
-                    ],
-                    [
-                        28.8906819,
-                        47.0495761
-                    ],
-                    [
-                        28.8906879,
-                        47.0497954
-                    ],
-                    [
-                        28.8906907,
-                        47.0498978
-                    ],
-                    [
-                        28.8906935,
-                        47.0500018
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 40986061,
-                "tags": {
-                    "highway": "primary",
-                    "lanes": "3",
-                    "maxspeed": "50",
-                    "name": "Bulevardul Mircea cel B\u0103tr\u00e2n",
-                    "name:ro": "Bulevardul Mircea cel B\u0103tr\u00e2n",
-                    "name:ru": "\u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u041c\u0438\u0440\u0447\u0430 \u0447\u0435\u043b \u0411\u044d\u0442\u0440\u044b\u043d",
-                    "old_name": "Bulevardul Kutuzov",
-                    "oneway": "yes",
-                    "trolley_wire": "yes",
-                    "wikidata": "Q4381283",
-                    "wikipedia": "ro:Bulevardul Mircea cel B\u0103tr\u00e2n din Chi\u0219in\u0103u"
-                }
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.8901616,
-                        47.0445778
-                    ],
-                    [
-                        28.8900473,
-                        47.0437041
-                    ],
-                    [
-                        28.8900283,
-                        47.0435055
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 41415456,
-                "tags": {
-                    "highway": "primary",
-                    "lanes": "3",
-                    "maxspeed": "50",
-                    "name": "Bulevardul Mircea cel B\u0103tr\u00een",
-                    "name:ru": "\u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u041c\u0438\u0440\u0447\u0430 \u0447\u0435\u043b \u0411\u044d\u0442\u0440\u044b\u043d",
-                    "name_1": "bd. Mircea cel B\u0103tr\u00een",
-                    "old_name": "Bulevardul Kutuzov",
-                    "oneway": "yes",
-                    "trolley_wire": "yes",
-                    "wikidata": "Q4381283",
-                    "wikipedia": "ro:Bulevardul Mircea cel B\u0103tr\u00e2n din Chi\u0219in\u0103u"
-                }
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.8902386,
-                        47.0511422
-                    ],
-                    [
-                        28.8902169,
-                        47.0508775
-                    ],
-                    [
-                        28.890193,
-                        47.0504321
-                    ],
-                    [
-                        28.8901754,
-                        47.049984
                     ]
                 ]
             }
@@ -1539,6 +1258,458 @@
             "type": "Feature",
             "properties": {
                 "type": "way",
+                "id": 49868153,
+                "tags": {
+                    "highway": "primary",
+                    "lanes": "2",
+                    "maxspeed": "50",
+                    "name": "Strada Uzinelor",
+                    "name:mo": "Strada Uzinelor",
+                    "name:ro": "Strada Uzinelor",
+                    "name:ru": "\u0417\u0430\u0432\u043e\u0434\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430",
+                    "trolley_wire": "yes"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8972294,
+                        46.9979238
+                    ],
+                    [
+                        28.8970258,
+                        46.9980374
+                    ],
+                    [
+                        28.8963704,
+                        46.998457
+                    ],
+                    [
+                        28.895477,
+                        46.9990286
+                    ],
+                    [
+                        28.8944629,
+                        46.9996773
+                    ],
+                    [
+                        28.8938856,
+                        47.0000517
+                    ],
+                    [
+                        28.8932523,
+                        47.0004651
+                    ],
+                    [
+                        28.8928403,
+                        47.0007381
+                    ],
+                    [
+                        28.892355,
+                        47.0010611
+                    ],
+                    [
+                        28.891108,
+                        47.0018813
+                    ],
+                    [
+                        28.8903547,
+                        47.0023776
+                    ],
+                    [
+                        28.8898326,
+                        47.0027269
+                    ],
+                    [
+                        28.8892966,
+                        47.0031189
+                    ],
+                    [
+                        28.8875769,
+                        47.0046295
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 49868154,
+                "tags": {
+                    "highway": "primary",
+                    "lanes": "2",
+                    "maxspeed": "50",
+                    "name": "Strada Me\u0219terul Manole",
+                    "name:ro": "Strada Me\u0219terul Manole",
+                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u041c\u0435\u0448\u0442\u0435\u0440\u0443\u043b \u041c\u0430\u043d\u043e\u043b\u0435",
+                    "old_name": "\u0443\u043b\u0438\u0446\u0430 \u0414\u043e\u0431\u0440\u043e\u0432\u043e\u043b\u044c\u0441\u043a\u043e\u0433\u043e",
+                    "oneway": "yes",
+                    "trolley_wire": "yes"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8873782,
+                        47.0126461
+                    ],
+                    [
+                        28.887701,
+                        47.0157202
+                    ],
+                    [
+                        28.887936,
+                        47.0179583
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 49868156,
+                "tags": {
+                    "highway": "primary",
+                    "lanes": "1",
+                    "maxspeed": "50",
+                    "name": "Strada Voluntarilor",
+                    "name:ro": "Strada Voluntarilor",
+                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u0412\u043e\u043b\u0443\u043d\u0442\u0430\u0440\u0438\u043b\u043e\u0440",
+                    "trolley_wire": "yes"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8982001,
+                        46.9980144
+                    ],
+                    [
+                        28.8982146,
+                        46.9980343
+                    ],
+                    [
+                        28.8984646,
+                        46.9983474
+                    ],
+                    [
+                        28.8987055,
+                        46.9986596
+                    ],
+                    [
+                        28.8987844,
+                        46.9987623
+                    ],
+                    [
+                        28.8987829,
+                        46.9988694
+                    ],
+                    [
+                        28.8987697,
+                        46.9989336
+                    ],
+                    [
+                        28.8987102,
+                        46.9990674
+                    ],
+                    [
+                        28.8986316,
+                        46.9991686
+                    ],
+                    [
+                        28.8976458,
+                        47.0002232
+                    ],
+                    [
+                        28.8966238,
+                        47.0013456
+                    ],
+                    [
+                        28.8965257,
+                        47.00145
+                    ],
+                    [
+                        28.8962077,
+                        47.001796
+                    ],
+                    [
+                        28.8960103,
+                        47.0020039
+                    ],
+                    [
+                        28.8955742,
+                        47.0024738
+                    ],
+                    [
+                        28.8954377,
+                        47.0026443
+                    ],
+                    [
+                        28.8953526,
+                        47.0027778
+                    ],
+                    [
+                        28.8953016,
+                        47.0028885
+                    ],
+                    [
+                        28.8952552,
+                        47.0029957
+                    ],
+                    [
+                        28.895121,
+                        47.0033289
+                    ],
+                    [
+                        28.8950561,
+                        47.0034957
+                    ],
+                    [
+                        28.8948401,
+                        47.0040304
+                    ],
+                    [
+                        28.8943179,
+                        47.005367
+                    ],
+                    [
+                        28.8942635,
+                        47.0055268
+                    ],
+                    [
+                        28.8941184,
+                        47.0059437
+                    ],
+                    [
+                        28.8939403,
+                        47.0063446
+                    ],
+                    [
+                        28.893839,
+                        47.0065325
+                    ],
+                    [
+                        28.8936034,
+                        47.0068396
+                    ],
+                    [
+                        28.8933841,
+                        47.0070576
+                    ],
+                    [
+                        28.8931785,
+                        47.0072403
+                    ],
+                    [
+                        28.8929009,
+                        47.0074863
+                    ],
+                    [
+                        28.8925434,
+                        47.0077966
+                    ],
+                    [
+                        28.8922868,
+                        47.0080251
+                    ],
+                    [
+                        28.8919844,
+                        47.008278
+                    ],
+                    [
+                        28.8915779,
+                        47.0086291
+                    ],
+                    [
+                        28.8908211,
+                        47.0092827
+                    ],
+                    [
+                        28.8907508,
+                        47.0093403
+                    ],
+                    [
+                        28.8907254,
+                        47.0093653
+                    ],
+                    [
+                        28.8901607,
+                        47.009853
+                    ],
+                    [
+                        28.8897402,
+                        47.0102162
+                    ],
+                    [
+                        28.888847,
+                        47.0109876
+                    ],
+                    [
+                        28.8882215,
+                        47.0115249
+                    ],
+                    [
+                        28.8881952,
+                        47.0115506
+                    ],
+                    [
+                        28.8880473,
+                        47.0116783
+                    ],
+                    [
+                        28.8879628,
+                        47.0117513
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 49868166,
+                "tags": {
+                    "highway": "primary",
+                    "junction": "roundabout",
+                    "lanes": "2",
+                    "maxspeed": "50",
+                    "name": "Strada Uzinelor",
+                    "name:ru": "\u0417\u0430\u0432\u043e\u0434\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430",
+                    "oneway": "yes",
+                    "trolley_wire": "yes"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8978398,
+                        46.9976113
+                    ],
+                    [
+                        28.8978599,
+                        46.9975962
+                    ],
+                    [
+                        28.8978843,
+                        46.9975844
+                    ],
+                    [
+                        28.8979119,
+                        46.9975765
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 49868168,
+                "tags": {
+                    "highway": "primary",
+                    "lanes": "1",
+                    "maxspeed": "50",
+                    "name": "Strada Voluntarilor",
+                    "name:ro": "Strada Voluntarilor",
+                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u0412\u043e\u043b\u0443\u043d\u0442\u0430\u0440\u0438\u043b\u043e\u0440",
+                    "oneway": "yes",
+                    "trolley_wire": "yes"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8981523,
+                        46.9978657
+                    ],
+                    [
+                        28.8982001,
+                        46.9980144
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 49868169,
+                "tags": {
+                    "highway": "primary",
+                    "lanes": "1",
+                    "maxspeed": "50",
+                    "oneway": "yes",
+                    "trolley_wire": "yes"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8872416,
+                        47.0117837
+                    ],
+                    [
+                        28.8873765,
+                        47.0117918
+                    ],
+                    [
+                        28.8875114,
+                        47.0118054
+                    ],
+                    [
+                        28.8876438,
+                        47.0118124
+                    ],
+                    [
+                        28.8877403,
+                        47.0118104
+                    ],
+                    [
+                        28.8878422,
+                        47.0117956
+                    ],
+                    [
+                        28.8879628,
+                        47.0117513
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 49868170,
+                "tags": {
+                    "highway": "primary_link"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.887936,
+                        47.0179583
+                    ],
+                    [
+                        28.8871413,
+                        47.0180351
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
                 "id": 52132049,
                 "tags": {
                     "highway": "primary",
@@ -1560,6 +1731,181 @@
                     [
                         28.8534019,
                         47.0433464
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 52299540,
+                "tags": {
+                    "highway": "primary",
+                    "lanes": "2",
+                    "maxspeed": "50",
+                    "name": "Strada Uzinelor",
+                    "name:ru": "\u0417\u0430\u0432\u043e\u0434\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430",
+                    "oneway": "yes",
+                    "trolley_wire": "yes"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8972294,
+                        46.9979238
+                    ],
+                    [
+                        28.8978398,
+                        46.9976113
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 52299543,
+                "tags": {
+                    "highway": "secondary",
+                    "lanes": "2",
+                    "name": "Strada Maria Dr\u0103gan",
+                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u041c\u0430\u0440\u0438\u0438 \u0414\u0440\u044d\u0433\u0430\u043d"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.882874,
+                        47.0199384
+                    ],
+                    [
+                        28.8826972,
+                        47.0182467
+                    ],
+                    [
+                        28.8825151,
+                        47.0167383
+                    ],
+                    [
+                        28.8824106,
+                        47.0156514
+                    ],
+                    [
+                        28.882389,
+                        47.0153116
+                    ],
+                    [
+                        28.8824075,
+                        47.0151818
+                    ],
+                    [
+                        28.8824627,
+                        47.0150695
+                    ],
+                    [
+                        28.883121,
+                        47.0140223
+                    ],
+                    [
+                        28.8840717,
+                        47.0125762
+                    ],
+                    [
+                        28.8841455,
+                        47.0124711
+                    ],
+                    [
+                        28.8842317,
+                        47.0123703
+                    ],
+                    [
+                        28.884328,
+                        47.0122813
+                    ],
+                    [
+                        28.8844219,
+                        47.0122112
+                    ],
+                    [
+                        28.8845274,
+                        47.0121383
+                    ],
+                    [
+                        28.8846422,
+                        47.012078
+                    ],
+                    [
+                        28.8848101,
+                        47.0120062
+                    ],
+                    [
+                        28.8849825,
+                        47.0119448
+                    ],
+                    [
+                        28.8851888,
+                        47.011896
+                    ],
+                    [
+                        28.8853417,
+                        47.011871
+                    ],
+                    [
+                        28.8854947,
+                        47.0118556
+                    ],
+                    [
+                        28.885649,
+                        47.0118439
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 52299547,
+                "tags": {
+                    "highway": "primary",
+                    "lanes": "4",
+                    "maxspeed": "50",
+                    "name": "Strada Vadul lui Vod\u0103",
+                    "name:ro": "str. Vadul lui Voda",
+                    "name:ru": "\u0412\u0430\u0434\u0443\u043b-\u043b\u0443\u0439-\u0412\u043e\u0434\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8841003,
+                        47.031304
+                    ],
+                    [
+                        28.8848261,
+                        47.0315654
+                    ],
+                    [
+                        28.8858602,
+                        47.0319249
+                    ],
+                    [
+                        28.8877396,
+                        47.0325941
+                    ],
+                    [
+                        28.8884616,
+                        47.0328522
+                    ],
+                    [
+                        28.8888027,
+                        47.0329845
                     ]
                 ]
             }
@@ -1644,10 +1990,6 @@
                     [
                         28.8435303,
                         47.0324073
-                    ],
-                    [
-                        28.8433844,
-                        47.0323073
                     ]
                 ]
             }
@@ -1708,8 +2050,8 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8402051,
-                        47.0297289
+                        28.8402077,
+                        47.0297282
                     ],
                     [
                         28.8405571,
@@ -1779,146 +2121,54 @@
             "type": "Feature",
             "properties": {
                 "type": "way",
-                "id": 105647260,
+                "id": 105871008,
                 "tags": {
                     "highway": "primary",
-                    "lanes": "3",
+                    "lanes": "2",
                     "maxspeed": "50",
-                    "name": "Bulevardul Mircea cel B\u0103tr\u00e2n",
-                    "name:ro": "Bulevardul Mircea cel B\u0103tr\u00e2n",
-                    "name:ru": "\u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u041c\u0438\u0440\u0447\u0430 \u0447\u0435\u043b \u0411\u044d\u0442\u0440\u044b\u043d",
-                    "old_name": "Bulevardul Kutuzov",
-                    "oneway": "yes",
-                    "trolley_wire": "yes",
-                    "wikidata": "Q4381283",
-                    "wikipedia": "ro:Bulevardul Mircea cel B\u0103tr\u00e2n din Chi\u0219in\u0103u"
-                }
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.8906935,
-                        47.0500018
-                    ],
-                    [
-                        28.8907156,
-                        47.0503272
-                    ],
-                    [
-                        28.8907685,
-                        47.0511782
-                    ],
-                    [
-                        28.8907801,
-                        47.0513616
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 105647274,
-                "tags": {
-                    "highway": "primary",
-                    "lanes": "3",
-                    "maxspeed": "50",
-                    "name": "Bulevardul Mircea cel B\u0103tr\u00een",
-                    "name:ru": "\u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u041c\u0438\u0440\u0447\u0430 \u0447\u0435\u043b \u0411\u044d\u0442\u0440\u044b\u043d",
-                    "name_1": "bd. Mircea cel B\u0103tr\u00een",
-                    "old_name": "Bulevardul Kutuzov",
-                    "oneway": "yes",
-                    "trolley_wire": "yes",
-                    "wikidata": "Q4381283",
-                    "wikipedia": "ro:Bulevardul Mircea cel B\u0103tr\u00e2n din Chi\u0219in\u0103u"
-                }
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.8901754,
-                        47.049984
-                    ],
-                    [
-                        28.8901727,
-                        47.049906
-                    ],
-                    [
-                        28.8901526,
-                        47.0493279
-                    ],
-                    [
-                        28.8902225,
-                        47.0481859
-                    ],
-                    [
-                        28.8902428,
-                        47.0479146
-                    ],
-                    [
-                        28.8902523,
-                        47.0476345
-                    ],
-                    [
-                        28.8902654,
-                        47.0472917
-                    ],
-                    [
-                        28.8902717,
-                        47.0469768
-                    ],
-                    [
-                        28.8902718,
-                        47.0468117
-                    ],
-                    [
-                        28.8902717,
-                        47.04665
-                    ],
-                    [
-                        28.890271,
-                        47.046527
-                    ],
-                    [
-                        28.8902677,
-                        47.0463067
-                    ],
-                    [
-                        28.8902637,
-                        47.0461942
-                    ],
-                    [
-                        28.890226,
-                        47.0452809
-                    ],
-                    [
-                        28.890211,
-                        47.0450122
-                    ],
-                    [
-                        28.8901616,
-                        47.0445778
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 121854712,
-                "tags": {
-                    "highway": "primary",
-                    "lanes": "3",
-                    "maxspeed": "50",
-                    "name": "Strada Mitropolit B\u0103nulescu-Bodoni",
-                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u041c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u0442\u0430 \u0411\u044d\u043d\u0443\u043b\u0435\u0441\u043a\u0443-\u0411\u043e\u0434\u043e\u043d\u0438",
-                    "old_name": "\u0443\u043b\u0438\u0446\u0430 \u0413\u043e\u0433\u043e\u043b\u044f",
-                    "oneway": "yes",
+                    "name": "Strada Uzinelor",
+                    "name:mo": "Strada Uzinelor",
+                    "name:ro": "Strada Uzinelor",
+                    "name:ru": "\u0417\u0430\u0432\u043e\u0434\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430",
                     "trolley_wire": "yes"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8869699,
+                        47.00514
+                    ],
+                    [
+                        28.8865945,
+                        47.005366
+                    ],
+                    [
+                        28.8862113,
+                        47.0055635
+                    ],
+                    [
+                        28.885946,
+                        47.0056797
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 121854711,
+                "tags": {
+                    "highway": "tertiary",
+                    "lanes": "2",
+                    "maxspeed": "50",
+                    "name": "Strada 31 August 1989",
+                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 31 \u0410\u0432\u0433\u0443\u0441\u0442\u0430 1989",
+                    "old_name": "\u041a\u0438\u0435\u0432\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430",
+                    "oneway": "yes",
+                    "postal_code": "MD-2012"
                 }
             },
             "geometry": {
@@ -1929,16 +2179,20 @@
                         47.0235485
                     ],
                     [
-                        28.827973,
-                        47.0234856
+                        28.8281486,
+                        47.0234921
                     ],
                     [
-                        28.8267969,
-                        47.0226656
+                        28.8287484,
+                        47.0231066
                     ],
                     [
-                        28.826693,
-                        47.0225918
+                        28.8292275,
+                        47.0227986
+                    ],
+                    [
+                        28.8296094,
+                        47.0225532
                     ]
                 ]
             }
@@ -1989,120 +2243,6 @@
                     [
                         28.833846,
                         47.0236502
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 134802969,
-                "tags": {
-                    "highway": "primary",
-                    "lanes": "3",
-                    "maxspeed": "50",
-                    "name": "Strada Aleksandr Pu\u0219kin",
-                    "name:ro": "Strada Aleksandr Pu\u0219kin",
-                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0430 \u041f\u0443\u0448\u043a\u0438\u043d\u0430",
-                    "oneway": "yes",
-                    "trolley_wire": "yes"
-                }
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.8296084,
-                        47.0206599
-                    ],
-                    [
-                        28.8296904,
-                        47.0207118
-                    ],
-                    [
-                        28.8306242,
-                        47.0213595
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 142453045,
-                "tags": {
-                    "highway": "primary",
-                    "lanes": "3",
-                    "maxspeed": "50",
-                    "name": "Strada Mitropolit B\u0103nulescu-Bodoni",
-                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u041c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u0442\u0430 \u0411\u044d\u043d\u0443\u043b\u0435\u0441\u043a\u0443-\u0411\u043e\u0434\u043e\u043d\u0438",
-                    "old_name": "\u0443\u043b\u0438\u0446\u0430 \u0413\u043e\u0433\u043e\u043b\u044f",
-                    "oneway": "yes",
-                    "trolley_wire": "yes"
-                }
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.826693,
-                        47.0225918
-                    ],
-                    [
-                        28.8266079,
-                        47.0225358
-                    ],
-                    [
-                        28.82658,
-                        47.0225162
-                    ],
-                    [
-                        28.8260186,
-                        47.0221451
-                    ],
-                    [
-                        28.8253538,
-                        47.0216763
-                    ],
-                    [
-                        28.8252943,
-                        47.0216322
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 173395907,
-                "tags": {
-                    "highway": "primary",
-                    "lanes": "3",
-                    "maxspeed": "50",
-                    "name": "Strada Tudor Vladimirescu",
-                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u0422\u0443\u0434\u043e\u0440\u0430 \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u0435\u0441\u043a\u0443",
-                    "old_name": "\u0443\u043b\u0438\u0446\u0430 \u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0430",
-                    "surface": "asphalt",
-                    "trolley_wire": "yes"
-                }
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.8560399,
-                        47.0391693
-                    ],
-                    [
-                        28.8557217,
-                        47.0391953
-                    ],
-                    [
-                        28.8555747,
-                        47.0392058
                     ]
                 ]
             }
@@ -2220,43 +2360,13 @@
             "type": "Feature",
             "properties": {
                 "type": "way",
-                "id": 175701270,
-                "tags": {
-                    "highway": "primary",
-                    "lanes": "2",
-                    "maxspeed": "50",
-                    "name": "Strada Kiev",
-                    "name:ro": "str. Kiev",
-                    "name:ru": "\u041a\u0438\u0435\u0432\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430",
-                    "surface": "asphalt",
-                    "trolley_wire": "yes"
-                }
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.8595773,
-                        47.0399388
-                    ],
-                    [
-                        28.8595215,
-                        47.0398113
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
                 "id": 175701271,
                 "tags": {
                     "highway": "primary",
                     "lanes": "2",
                     "maxspeed": "50",
                     "name": "Strada Kiev",
-                    "name:ro": "str. Kiev",
+                    "name:ro": "Strada Kiev",
                     "name:ru": "\u041a\u0438\u0435\u0432\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430",
                     "surface": "asphalt",
                     "trolley_wire": "yes"
@@ -2266,12 +2376,16 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8595215,
-                        47.0398113
+                        28.859577,
+                        47.0399405
                     ],
                     [
-                        28.8594658,
-                        47.0396811
+                        28.8595417,
+                        47.0398537
+                    ],
+                    [
+                        28.8594691,
+                        47.0396805
                     ],
                     [
                         28.8593836,
@@ -2292,6 +2406,7 @@
                     "name": "Strada Kiev",
                     "name:ro": "Strada Kiev",
                     "name:ru": "\u041a\u0438\u0435\u0432\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430",
+                    "surface": "asphalt",
                     "trolley_wire": "yes"
                 }
             },
@@ -2327,24 +2442,28 @@
                         47.0420641
                     ],
                     [
-                        28.8598636,
-                        47.0406469
+                        28.8601998,
+                        47.0414576
                     ],
                     [
-                        28.8597018,
-                        47.040241
+                        28.8598609,
+                        47.0406396
                     ],
                     [
-                        28.8596733,
-                        47.040164
+                        28.8596967,
+                        47.0402354
                     ],
                     [
-                        28.8596389,
-                        47.0400832
+                        28.8596617,
+                        47.0401491
                     ],
                     [
-                        28.8595773,
-                        47.0399388
+                        28.8596368,
+                        47.0400879
+                    ],
+                    [
+                        28.859577,
+                        47.0399405
                     ]
                 ]
             }
@@ -2387,6 +2506,10 @@
                     [
                         28.8590988,
                         47.0390561
+                    ],
+                    [
+                        28.8590075,
+                        47.0390182
                     ],
                     [
                         28.8588977,
@@ -2442,6 +2565,43 @@
             "type": "Feature",
             "properties": {
                 "type": "way",
+                "id": 234334248,
+                "tags": {
+                    "highway": "secondary",
+                    "maxspeed": "50",
+                    "oneway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8864991,
+                        47.0117927
+                    ],
+                    [
+                        28.8866849,
+                        47.0117831
+                    ],
+                    [
+                        28.886877,
+                        47.0117729
+                    ],
+                    [
+                        28.8870562,
+                        47.0117762
+                    ],
+                    [
+                        28.8872416,
+                        47.0117837
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
                 "id": 236106335,
                 "tags": {
                     "highway": "primary",
@@ -2450,7 +2610,8 @@
                     "maxspeed": "50",
                     "name": "Bulevardul Rena\u015fterii Na\u0163ionale",
                     "name:ru": "\u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u0420\u0435\u043d\u0430\u0448\u0442\u0435\u0440\u0438\u0439 \u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u0435",
-                    "old_name": "\u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u041c\u043e\u043b\u043e\u0434\u0451\u0436\u0438"
+                    "old_name": "\u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u041c\u043e\u043b\u043e\u0434\u0451\u0436\u0438",
+                    "surface": "asphalt"
                 }
             },
             "geometry": {
@@ -2497,483 +2658,6 @@
                     [
                         28.8606067,
                         47.0442028
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 236371922,
-                "tags": {
-                    "highway": "primary",
-                    "lanes": "3",
-                    "maxspeed": "50",
-                    "name": "Bulevardul Mircea cel B\u0103tr\u00een",
-                    "name:ru": "\u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u041c\u0438\u0440\u0447\u0430 \u0447\u0435\u043b \u0411\u044d\u0442\u0440\u044b\u043d",
-                    "name_1": "bd. Mircea cel B\u0103tr\u00een",
-                    "old_name": "Bulevardul Kutuzov",
-                    "oneway": "yes",
-                    "trolley_wire": "yes",
-                    "wikidata": "Q4381283",
-                    "wikipedia": "ro:Bulevardul Mircea cel B\u0103tr\u00e2n din Chi\u0219in\u0103u"
-                }
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.89153,
-                        47.0564842
-                    ],
-                    [
-                        28.8915823,
-                        47.0566453
-                    ],
-                    [
-                        28.8916258,
-                        47.0569704
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 236371923,
-                "tags": {
-                    "highway": "primary",
-                    "lanes": "3",
-                    "maxspeed": "50",
-                    "name": "Bulevardul Mircea cel B\u0103tr\u00e2n",
-                    "name:ro": "Bulevardul Mircea cel B\u0103tr\u00e2n",
-                    "name:ru": "\u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u041c\u0438\u0440\u0447\u0430 \u0447\u0435\u043b \u0411\u044d\u0442\u0440\u044b\u043d",
-                    "old_name": "Bulevardul Kutuzov",
-                    "oneway": "yes",
-                    "trolley_wire": "yes",
-                    "wikidata": "Q4381283",
-                    "wikipedia": "ro:Bulevardul Mircea cel B\u0103tr\u00e2n din Chi\u0219in\u0103u"
-                }
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.890949,
-                        47.0561308
-                    ],
-                    [
-                        28.8907975,
-                        47.0551782
-                    ],
-                    [
-                        28.8906891,
-                        47.0543721
-                    ],
-                    [
-                        28.8904123,
-                        47.0525228
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 236554573,
-                "tags": {
-                    "highway": "primary",
-                    "lanes": "3",
-                    "maxspeed": "50",
-                    "name": "Bulevardul Mircea cel B\u0103tr\u00e2n",
-                    "name:ro": "Bulevardul Mircea cel B\u0103tr\u00e2n",
-                    "name:ru": "\u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u041c\u0438\u0440\u0447\u0430 \u0447\u0435\u043b \u0411\u044d\u0442\u0440\u044b\u043d",
-                    "old_name": "Bulevardul Kutuzov",
-                    "oneway": "yes",
-                    "trolley_wire": "yes",
-                    "wikidata": "Q4381283",
-                    "wikipedia": "ro:Bulevardul Mircea cel B\u0103tr\u00e2n din Chi\u0219in\u0103u"
-                }
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.8907801,
-                        47.0513616
-                    ],
-                    [
-                        28.8907942,
-                        47.051527
-                    ],
-                    [
-                        28.8908328,
-                        47.0517987
-                    ],
-                    [
-                        28.8908548,
-                        47.0519874
-                    ],
-                    [
-                        28.8908934,
-                        47.0522573
-                    ],
-                    [
-                        28.8909225,
-                        47.0524758
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 236573416,
-                "tags": {
-                    "highway": "primary",
-                    "lanes": "3",
-                    "maxspeed": "50",
-                    "name": "Bulevardul Mircea cel B\u0103tr\u00een",
-                    "name:ro": "Bulevardul Mircea cel B\u0103tr\u00e2n",
-                    "name:ru": "\u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u041c\u0438\u0440\u0447\u0430 \u0447\u0435\u043b \u0411\u044d\u0442\u0440\u044b\u043d",
-                    "name_1": "bd. Mircea cel B\u0103tr\u00een",
-                    "old_name": "Bulevardul Kutuzov",
-                    "oneway": "yes",
-                    "trolley_wire": "yes",
-                    "wikidata": "Q4381283",
-                    "wikipedia": "ro:Bulevardul Mircea cel B\u0103tr\u00e2n din Chi\u0219in\u0103u"
-                }
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.8898697,
-                        47.0370094
-                    ],
-                    [
-                        28.8898936,
-                        47.0372409
-                    ],
-                    [
-                        28.8899031,
-                        47.0373316
-                    ],
-                    [
-                        28.8899777,
-                        47.038043
-                    ],
-                    [
-                        28.8899866,
-                        47.0381422
-                    ],
-                    [
-                        28.8901409,
-                        47.0396069
-                    ],
-                    [
-                        28.890147,
-                        47.0396806
-                    ],
-                    [
-                        28.8901588,
-                        47.0398249
-                    ],
-                    [
-                        28.8901655,
-                        47.0399039
-                    ],
-                    [
-                        28.890178,
-                        47.0400351
-                    ],
-                    [
-                        28.8901905,
-                        47.0401172
-                    ],
-                    [
-                        28.8902142,
-                        47.0403142
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 236577640,
-                "tags": {
-                    "highway": "primary",
-                    "lanes": "3",
-                    "maxspeed": "50",
-                    "name": "Bulevardul Mircea cel B\u0103tr\u00e2n",
-                    "name:ro": "Bulevardul Mircea cel B\u0103tr\u00e2n",
-                    "name:ru": "\u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u041c\u0438\u0440\u0447\u0430 \u0447\u0435\u043b \u0411\u044d\u0442\u0440\u044b\u043d",
-                    "name_1": "bd. Mircea cel B\u0103tr\u00een",
-                    "old_name": "Bulevardul Kutuzov",
-                    "oneway": "yes",
-                    "trolley_wire": "yes",
-                    "wikidata": "Q4381283",
-                    "wikipedia": "ro:Bulevardul Mircea cel B\u0103tr\u00e2n din Chi\u0219in\u0103u"
-                }
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.8905461,
-                        47.0433537
-                    ],
-                    [
-                        28.8905674,
-                        47.0435612
-                    ],
-                    [
-                        28.8905947,
-                        47.0438059
-                    ],
-                    [
-                        28.8906779,
-                        47.0445347
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 236748912,
-                "tags": {
-                    "highway": "primary",
-                    "lanes": "3",
-                    "maxspeed": "50",
-                    "name": "Bulevardul Mircea cel B\u0103tr\u00e2n",
-                    "name:ro": "Bulevardul Mircea cel B\u0103tr\u00e2n",
-                    "name:ru": "\u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u041c\u0438\u0440\u0447\u0430 \u0447\u0435\u043b \u0411\u044d\u0442\u0440\u044b\u043d",
-                    "name_1": "bd. Mircea cel B\u0103tr\u00een",
-                    "old_name": "Bulevardul Kutuzov",
-                    "oneway": "yes",
-                    "trolley_wire": "yes",
-                    "wikidata": "Q4381283",
-                    "wikipedia": "ro:Bulevardul Mircea cel B\u0103tr\u00e2n din Chi\u0219in\u0103u"
-                }
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.8896986,
-                        47.0403414
-                    ],
-                    [
-                        28.8896915,
-                        47.0402774
-                    ],
-                    [
-                        28.8896714,
-                        47.04011
-                    ],
-                    [
-                        28.889608,
-                        47.0394946
-                    ],
-                    [
-                        28.8894505,
-                        47.0380766
-                    ],
-                    [
-                        28.8894288,
-                        47.0378819
-                    ],
-                    [
-                        28.8893948,
-                        47.0375771
-                    ],
-                    [
-                        28.8893599,
-                        47.0372632
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 236748913,
-                "tags": {
-                    "foot": "no",
-                    "highway": "primary",
-                    "horse": "no",
-                    "lanes": "3",
-                    "maxspeed": "50",
-                    "name": "Bulevardul Mircea cel B\u0103tr\u00e2n",
-                    "name:ro": "Bulevardul Mircea cel B\u0103tr\u00e2n",
-                    "name:ru": "\u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u041c\u0438\u0440\u0447\u0430 \u0447\u0435\u043b \u0411\u044d\u0442\u0440\u044b\u043d",
-                    "name_1": "bd. Mircea cel B\u0103tr\u00een",
-                    "old_name": "Bulevardul Kutuzov",
-                    "oneway": "yes",
-                    "surface": "asphalt",
-                    "trolley_wire": "yes",
-                    "wikidata": "Q4381283",
-                    "wikipedia": "ro:Bulevardul Mircea cel B\u0103tr\u00e2n din Chi\u0219in\u0103u"
-                }
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.8902142,
-                        47.0403142
-                    ],
-                    [
-                        28.8902361,
-                        47.0405061
-                    ],
-                    [
-                        28.8902425,
-                        47.0405702
-                    ],
-                    [
-                        28.8902505,
-                        47.0406483
-                    ],
-                    [
-                        28.8903005,
-                        47.0411431
-                    ],
-                    [
-                        28.8904388,
-                        47.0423564
-                    ],
-                    [
-                        28.890452,
-                        47.0425048
-                    ],
-                    [
-                        28.8904656,
-                        47.0426271
-                    ],
-                    [
-                        28.8905249,
-                        47.0431628
-                    ],
-                    [
-                        28.8905461,
-                        47.0433537
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 248801168,
-                "tags": {
-                    "highway": "primary",
-                    "lanes": "3",
-                    "maxspeed": "50",
-                    "name": "Bulevardul Mircea cel B\u0103tr\u00e2n",
-                    "name:ro": "Bulevardul Mircea cel B\u0103tr\u00e2n",
-                    "name:ru": "\u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u041c\u0438\u0440\u0447\u0430 \u0447\u0435\u043b \u0411\u044d\u0442\u0440\u044b\u043d",
-                    "old_name": "\u041a\u0443\u0442\u0443\u0437\u043e\u0432\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442",
-                    "oneway": "yes",
-                    "trolley_wire": "yes"
-                }
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.8900283,
-                        47.0435055
-                    ],
-                    [
-                        28.890015,
-                        47.0433572
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 298158341,
-                "tags": {
-                    "highway": "primary",
-                    "lanes": "3",
-                    "maxspeed": "50",
-                    "name": "Strada Mitropolit B\u0103nulescu-Bodoni",
-                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u041c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u0442\u0430 \u0411\u044d\u043d\u0443\u043b\u0435\u0441\u043a\u0443-\u0411\u043e\u0434\u043e\u043d\u0438",
-                    "old_name": "\u0443\u043b\u0438\u0446\u0430 \u0413\u043e\u0433\u043e\u043b\u044f",
-                    "oneway": "yes",
-                    "trolley_wire": "yes"
-                }
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.8252943,
-                        47.0216322
-                    ],
-                    [
-                        28.8252338,
-                        47.0215913
-                    ],
-                    [
-                        28.8239627,
-                        47.0207324
-                    ],
-                    [
-                        28.8237439,
-                        47.020585
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 298158342,
-                "tags": {
-                    "highway": "primary",
-                    "lanes": "3",
-                    "maxspeed": "50",
-                    "name": "Strada Aleksandr Pu\u0219kin",
-                    "name:ro": "Strada Aleksandr Pu\u0219kin",
-                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0430 \u041f\u0443\u0448\u043a\u0438\u043d\u0430",
-                    "oneway": "yes",
-                    "trolley_wire": "yes"
-                }
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.828204,
-                        47.0196719
-                    ],
-                    [
-                        28.8283104,
-                        47.0197467
-                    ],
-                    [
-                        28.8295383,
-                        47.0206103
-                    ],
-                    [
-                        28.8296084,
-                        47.0206599
                     ]
                 ]
             }
@@ -3070,12 +2754,12 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8398945,
-                        47.0299368
+                        28.8398963,
+                        47.0299426
                     ],
                     [
-                        28.8396545,
-                        47.0297724
+                        28.8396524,
+                        47.0297716
                     ],
                     [
                         28.8391544,
@@ -3086,32 +2770,32 @@
                         47.0292914
                     ],
                     [
-                        28.8381413,
-                        47.0287432
+                        28.8381399,
+                        47.0287422
                     ],
                     [
-                        28.8380609,
-                        47.0287058
+                        28.8380775,
+                        47.0287096
                     ],
                     [
-                        28.8380025,
-                        47.0286936
+                        28.8380011,
+                        47.0286908
                     ],
                     [
-                        28.8379209,
-                        47.028684
+                        28.8379237,
+                        47.0286821
                     ],
                     [
-                        28.8378582,
-                        47.0286858
+                        28.8378513,
+                        47.0286839
                     ],
                     [
                         28.8377771,
                         47.0286986
                     ],
                     [
-                        28.8376926,
-                        47.0287261
+                        28.8376843,
+                        47.028728
                     ]
                 ]
             }
@@ -3144,24 +2828,24 @@
                         47.0323073
                     ],
                     [
-                        28.8429172,
-                        47.0319864
+                        28.8428675,
+                        47.0319568
                     ],
                     [
                         28.841565,
                         47.0310706
                     ],
                     [
-                        28.8414661,
-                        47.0310036
+                        28.8414474,
+                        47.0309925
                     ],
                     [
                         28.8402036,
                         47.0301465
                     ],
                     [
-                        28.8398945,
-                        47.0299368
+                        28.8398963,
+                        47.0299426
                     ]
                 ]
             }
@@ -3326,41 +3010,6 @@
             "type": "Feature",
             "properties": {
                 "type": "way",
-                "id": 383160938,
-                "tags": {
-                    "foot": "no",
-                    "highway": "primary",
-                    "lanes": "8",
-                    "maxspeed": "50",
-                    "name": "Strada Alecu Russo",
-                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u0410\u043b\u0435\u043a\u0443 \u0420\u0443\u0441\u0441\u043e",
-                    "old_name": "\u0443\u043b\u0438\u0446\u0430 \u0424\u0435\u0434\u044c\u043a\u043e",
-                    "postal_code": "MD-2044",
-                    "surface": "asphalt"
-                }
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.8813101,
-                        47.039739
-                    ],
-                    [
-                        28.8810632,
-                        47.0398385
-                    ],
-                    [
-                        28.8804139,
-                        47.0400814
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
                 "id": 409894877,
                 "tags": {
                     "highway": "primary",
@@ -3385,20 +3034,12 @@
                         47.0322946
                     ],
                     [
-                        28.84413,
-                        47.0324182
+                        28.8444231,
+                        47.0326144
                     ],
                     [
                         28.8451669,
                         47.0331177
-                    ],
-                    [
-                        28.845199,
-                        47.0331412
-                    ],
-                    [
-                        28.8454088,
-                        47.0333239
                     ]
                 ]
             }
@@ -3444,60 +3085,6 @@
                     [
                         28.8614665,
                         47.0444612
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 419192838,
-                "tags": {
-                    "highway": "primary",
-                    "lanes": "3",
-                    "maxspeed": "50",
-                    "name": "Bulevardul Mircea cel B\u0103tr\u00e2n",
-                    "name:ro": "Bulevardul Mircea cel B\u0103tr\u00e2n",
-                    "name:ru": "\u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u041c\u0438\u0440\u0447\u0430 \u0447\u0435\u043b \u0411\u044d\u0442\u0440\u044b\u043d",
-                    "name_1": "bd. Mircea cel B\u0103tr\u00een",
-                    "old_name": "Bulevardul Kutuzov",
-                    "oneway": "yes",
-                    "trolley_wire": "yes",
-                    "wikidata": "Q4381283",
-                    "wikipedia": "ro:Bulevardul Mircea cel B\u0103tr\u00e2n din Chi\u0219in\u0103u"
-                }
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.890015,
-                        47.0433572
-                    ],
-                    [
-                        28.8899846,
-                        47.0430033
-                    ],
-                    [
-                        28.8899179,
-                        47.0423922
-                    ],
-                    [
-                        28.8897657,
-                        47.0410822
-                    ],
-                    [
-                        28.8897286,
-                        47.0406898
-                    ],
-                    [
-                        28.8897216,
-                        47.0405997
-                    ],
-                    [
-                        28.8896986,
-                        47.0403414
                     ]
                 ]
             }
@@ -3572,20 +3159,8 @@
                         47.039739
                     ],
                     [
-                        28.8815096,
-                        47.0396076
-                    ],
-                    [
-                        28.881682,
-                        47.03951
-                    ],
-                    [
-                        28.8819018,
-                        47.0393776
-                    ],
-                    [
-                        28.8819498,
-                        47.0393459
+                        28.8814264,
+                        47.0396558
                     ]
                 ]
             }
@@ -3594,27 +3169,40 @@
             "type": "Feature",
             "properties": {
                 "type": "way",
-                "id": 460715191,
+                "id": 457076155,
                 "tags": {
-                    "highway": "primary",
-                    "lanes": "3",
+                    "highway": "tertiary",
+                    "lanes": "2",
                     "maxspeed": "50",
-                    "name": "Strada Aleksandr Pu\u0219kin",
-                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0430 \u041f\u0443\u0448\u043a\u0438\u043d\u0430",
+                    "name": "Strada 31 August 1989",
+                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 31 \u0410\u0432\u0433\u0443\u0441\u0442\u0430 1989",
+                    "old_name": "\u041a\u0438\u0435\u0432\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430",
                     "oneway": "yes",
-                    "trolley_wire": "yes"
+                    "postal_code": "MD-2012"
                 }
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8306242,
-                        47.0213595
+                        28.8296094,
+                        47.0225532
                     ],
                     [
-                        28.8308815,
-                        47.0215416
+                        28.8298308,
+                        47.0223961
+                    ],
+                    [
+                        28.8299259,
+                        47.0223286
+                    ],
+                    [
+                        28.8299485,
+                        47.0223126
+                    ],
+                    [
+                        28.8308453,
+                        47.0216761
                     ],
                     [
                         28.8309614,
@@ -3627,35 +3215,30 @@
             "type": "Feature",
             "properties": {
                 "type": "way",
-                "id": 461100206,
+                "id": 460758538,
                 "tags": {
                     "highway": "primary",
-                    "lanes": "3",
+                    "lanes": "2",
                     "maxspeed": "50",
-                    "name": "Bulevardul Mircea cel B\u0103tr\u00een",
-                    "name:ru": "\u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u041c\u0438\u0440\u0447\u0430 \u0447\u0435\u043b \u0411\u044d\u0442\u0440\u044b\u043d",
-                    "name_1": "bd. Mircea cel B\u0103tr\u00een",
-                    "old_name": "Bulevardul Kutuzov",
-                    "oneway": "yes",
-                    "trolley_wire": "yes",
-                    "wikidata": "Q4381283",
-                    "wikipedia": "ro:Bulevardul Mircea cel B\u0103tr\u00e2n din Chi\u0219in\u0103u"
+                    "name": "Strada Uzinelor",
+                    "name:ru": "\u0417\u0430\u0432\u043e\u0434\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430",
+                    "trolley_wire": "yes"
                 }
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8910024,
-                        47.0564993
+                        28.8875769,
+                        47.0046295
                     ],
                     [
-                        28.8909785,
-                        47.0563076
+                        28.8872865,
+                        47.0048959
                     ],
                     [
-                        28.890949,
-                        47.0561308
+                        28.8869699,
+                        47.00514
                     ]
                 ]
             }
@@ -3664,48 +3247,66 @@
             "type": "Feature",
             "properties": {
                 "type": "way",
-                "id": 461100207,
+                "id": 461102214,
                 "tags": {
                     "highway": "primary",
-                    "lanes": "3",
+                    "lanes": "2",
                     "maxspeed": "50",
-                    "name": "Bulevardul Mircea cel B\u0103tr\u00e2n",
-                    "name:ro": "Bulevardul Mircea cel B\u0103tr\u00e2n",
-                    "name:ru": "\u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u041c\u0438\u0440\u0447\u0430 \u0447\u0435\u043b \u0411\u044d\u0442\u0440\u044b\u043d",
-                    "name_1": "bd. Mircea cel B\u0103tr\u00een",
-                    "old_name": "Bulevardul Kutuzov",
+                    "name": "Strada Me\u0219terul Manole",
+                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u041c\u0435\u0448\u0442\u0435\u0440\u0443\u043b \u041c\u0430\u043d\u043e\u043b\u0435",
+                    "old_name": "\u0443\u043b\u0438\u0446\u0430 \u0414\u043e\u0431\u0440\u043e\u0432\u043e\u043b\u044c\u0441\u043a\u043e\u0433\u043e",
                     "oneway": "yes",
-                    "trolley_wire": "yes",
-                    "wikidata": "Q4381283",
-                    "wikipedia": "ro:Bulevardul Mircea cel B\u0103tr\u00e2n din Chi\u0219in\u0103u"
+                    "trolley_wire": "yes"
                 }
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8916258,
-                        47.0569704
+                        28.8873503,
+                        47.0123712
                     ],
                     [
-                        28.8917025,
-                        47.0575479
+                        28.8873541,
+                        47.0124164
                     ],
                     [
-                        28.8917711,
-                        47.0582203
+                        28.88737,
+                        47.0125662
                     ],
                     [
-                        28.8917859,
-                        47.0583382
+                        28.8873782,
+                        47.0126461
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 461102215,
+                "tags": {
+                    "highway": "primary",
+                    "lanes": "2",
+                    "maxspeed": "50",
+                    "name": "Strada Me\u0219terul Manole",
+                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u041c\u0435\u0448\u0442\u0435\u0440\u0443\u043b \u041c\u0430\u043d\u043e\u043b\u0435",
+                    "old_name": "\u0443\u043b\u0438\u0446\u0430 \u0414\u043e\u0431\u0440\u043e\u0432\u043e\u043b\u044c\u0441\u043a\u043e\u0433\u043e",
+                    "oneway": "yes",
+                    "trolley_wire": "yes"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8866015,
+                        47.0129703
                     ],
                     [
-                        28.8917638,
-                        47.0584067
-                    ],
-                    [
-                        28.8917403,
-                        47.0584565
+                        28.8865205,
+                        47.0122878
                     ]
                 ]
             }
@@ -3768,20 +3369,20 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8384269,
-                        47.0285351
+                        28.8384274,
+                        47.0285355
                     ],
                     [
-                        28.8388395,
-                        47.0288156
+                        28.8388483,
+                        47.028818
                     ],
                     [
-                        28.8399477,
-                        47.0295538
+                        28.8399463,
+                        47.0295583
                     ],
                     [
-                        28.8402051,
-                        47.0297289
+                        28.8402077,
+                        47.0297282
                     ]
                 ]
             }
@@ -3820,6 +3421,83 @@
                     [
                         28.8612627,
                         47.0444322
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 584875692,
+                "tags": {
+                    "highway": "primary",
+                    "lanes": "2",
+                    "maxspeed": "50",
+                    "name": "Strada Uzinelor",
+                    "name:ru": "\u0417\u0430\u0432\u043e\u0434\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430",
+                    "oneway": "yes",
+                    "trolley_wire": "yes"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8975188,
+                        46.997858
+                    ],
+                    [
+                        28.8972294,
+                        46.9979238
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 584875697,
+                "tags": {
+                    "highway": "primary",
+                    "junction": "roundabout"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8979119,
+                        46.9975765
+                    ],
+                    [
+                        28.8979516,
+                        46.9975727
+                    ],
+                    [
+                        28.8979913,
+                        46.9975769
+                    ],
+                    [
+                        28.8980274,
+                        46.9975888
+                    ],
+                    [
+                        28.898057,
+                        46.9976073
+                    ],
+                    [
+                        28.8980774,
+                        46.9976309
+                    ],
+                    [
+                        28.8980868,
+                        46.9976575
+                    ],
+                    [
+                        28.8980846,
+                        46.9976848
                     ]
                 ]
             }
@@ -3886,6 +3564,54 @@
             "type": "Feature",
             "properties": {
                 "type": "way",
+                "id": 599296597,
+                "tags": {
+                    "highway": "primary",
+                    "junction": "roundabout",
+                    "lanes": "3",
+                    "maxspeed": "50",
+                    "trolley_wire": "yes",
+                    "turn:lanes": "through|through;right|through;right"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8899126,
+                        47.0363538
+                    ],
+                    [
+                        28.8898237,
+                        47.0364421
+                    ],
+                    [
+                        28.8897302,
+                        47.0365214
+                    ],
+                    [
+                        28.8896141,
+                        47.0365798
+                    ],
+                    [
+                        28.8894979,
+                        47.0366098
+                    ],
+                    [
+                        28.8893857,
+                        47.0366233
+                    ],
+                    [
+                        28.8892244,
+                        47.0366187
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
                 "id": 599296598,
                 "tags": {
                     "highway": "primary",
@@ -3941,7 +3667,7 @@
                     ],
                     [
                         28.888892,
-                        47.0360054
+                        47.0360026
                     ]
                 ]
             }
@@ -3965,7 +3691,7 @@
                 "coordinates": [
                     [
                         28.888892,
-                        47.0360054
+                        47.0360026
                     ],
                     [
                         28.8889581,
@@ -3978,16 +3704,39 @@
             "type": "Feature",
             "properties": {
                 "type": "way",
-                "id": 630155075,
+                "id": 655677776,
                 "tags": {
                     "highway": "primary",
-                    "int_ref": "E 584",
-                    "lanes": "3",
-                    "name": "Strada Constantin T\u0103nase",
-                    "name:ro": "Strada Constantin T\u0103nase",
-                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\u0430 \u0422\u044d\u043d\u0430\u0441\u0435",
+                    "junction": "roundabout"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8980846,
+                        46.9976848
+                    ],
+                    [
+                        28.8980695,
+                        46.9977121
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 655677777,
+                "tags": {
+                    "highway": "primary",
+                    "lanes": "1",
+                    "maxspeed": "50",
+                    "name": "Strada Voluntarilor",
+                    "name:ro": "Strada Voluntarilor",
+                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u0412\u043e\u043b\u0443\u043d\u0442\u0430\u0440\u0438\u043b\u043e\u0440",
                     "oneway": "yes",
-                    "surface": "asphalt",
                     "trolley_wire": "yes"
                 }
             },
@@ -3995,12 +3744,12 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8387615,
-                        47.0279785
+                        28.8980695,
+                        46.9977121
                     ],
                     [
-                        28.838328,
-                        47.0282989
+                        28.8981523,
+                        46.9978657
                     ]
                 ]
             }
@@ -4016,7 +3765,8 @@
                     "junction": "roundabout",
                     "lanes": "2",
                     "maxspeed": "50",
-                    "oneway": "yes"
+                    "oneway": "yes",
+                    "surface": "asphalt"
                 }
             },
             "geometry": {
@@ -4044,7 +3794,8 @@
                     "junction": "roundabout",
                     "lanes": "2",
                     "maxspeed": "50",
-                    "oneway": "yes"
+                    "oneway": "yes",
+                    "surface": "asphalt"
                 }
             },
             "geometry": {
@@ -4092,7 +3843,8 @@
                     "junction": "roundabout",
                     "lanes": "2",
                     "maxspeed": "50",
-                    "oneway": "yes"
+                    "oneway": "yes",
+                    "surface": "asphalt"
                 }
             },
             "geometry": {
@@ -4136,64 +3888,6 @@
                     [
                         28.8821901,
                         47.0395139
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 655901337,
-                "tags": {
-                    "highway": "primary",
-                    "int_ref": "E 584",
-                    "junction": "roundabout",
-                    "maxspeed": "50",
-                    "trolley_wire": "yes"
-                }
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.8540045,
-                        47.0391177
-                    ],
-                    [
-                        28.8541111,
-                        47.0391396
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 655901340,
-                "tags": {
-                    "highway": "primary",
-                    "int_ref": "E 584",
-                    "junction": "roundabout",
-                    "maxspeed": "50",
-                    "trolley_wire": "yes"
-                }
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.8537537,
-                        47.039431
-                    ],
-                    [
-                        28.8537202,
-                        47.0393942
-                    ],
-                    [
-                        28.8537027,
-                        47.0393621
                     ]
                 ]
             }
@@ -4370,42 +4064,12 @@
                         47.0389848
                     ],
                     [
-                        28.8576003,
-                        47.0390519
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 665826925,
-                "tags": {
-                    "highway": "primary",
-                    "lanes": "2",
-                    "maxspeed": "50",
-                    "name": "Strada Alexei Mateevici",
-                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u0410\u043b\u0435\u043a\u0441\u0435\u044f \u041c\u0430\u0442\u0435\u0435\u0432\u0438\u0447\u0430",
-                    "old_name": "\u0421\u0430\u0434\u043e\u0432\u0430\u044f \u0443\u043b\u0438\u0446\u0430",
-                    "oneway": "no",
-                    "trolley_wire": "yes"
-                }
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.8231432,
-                        47.0184184
+                        28.8583267,
+                        47.0389992
                     ],
                     [
-                        28.8230911,
-                        47.0184667
-                    ],
-                    [
-                        28.8229752,
-                        47.0185804
+                        28.8575679,
+                        47.0390445
                     ]
                 ]
             }
@@ -4454,41 +4118,67 @@
             "type": "Feature",
             "properties": {
                 "type": "way",
-                "id": 690496840,
+                "id": 690497593,
                 "tags": {
                     "highway": "primary",
                     "lanes": "3",
                     "maxspeed": "50",
-                    "name": "Bulevardul Mircea cel B\u0103tr\u00e2n",
-                    "name:ro": "Bulevardul Mircea cel B\u0103tr\u00e2n",
-                    "name:ru": "\u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u041c\u0438\u0440\u0447\u0430 \u0447\u0435\u043b \u0411\u044d\u0442\u0440\u044b\u043d",
-                    "name_1": "bd. Mircea cel B\u0103tr\u00een",
-                    "old_name": "Bulevardul Kutuzov",
+                    "name": "Strada Me\u0219terul Manole",
+                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u041c\u0435\u0448\u0442\u0435\u0440\u0443\u043b \u041c\u0430\u043d\u043e\u043b\u0435",
+                    "old_name": "\u0443\u043b\u0438\u0446\u0430 \u0414\u043e\u0431\u0440\u043e\u0432\u043e\u043b\u044c\u0441\u043a\u043e\u0433\u043e",
                     "oneway": "yes",
-                    "trolley_wire": "yes",
-                    "turn:lanes": "through|through|through;right",
-                    "wikidata": "Q4381283",
-                    "wikipedia": "ro:Bulevardul Mircea cel B\u0103tr\u00e2n din Chi\u0219in\u0103u"
+                    "trolley_wire": "yes"
                 }
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8893599,
-                        47.0372632
+                        28.8896417,
+                        47.0332753
                     ],
                     [
-                        28.8893157,
-                        47.0368714
+                        28.8896663,
+                        47.0335046
                     ],
                     [
-                        28.8892946,
-                        47.0367531
+                        28.8897581,
+                        47.0343596
                     ],
                     [
-                        28.8892244,
-                        47.0366187
+                        28.8898944,
+                        47.0356891
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 690500556,
+                "tags": {
+                    "highway": "primary",
+                    "lanes": "4",
+                    "lanes:backward": "2",
+                    "lanes:forward": "2",
+                    "maxspeed": "50",
+                    "name": "Strada Vadul lui Vod\u0103",
+                    "name:ro": "str. Vadul lui Voda",
+                    "name:ru": "\u0412\u0430\u0434\u0443\u043b-\u043b\u0443\u0439-\u0412\u043e\u0434\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430",
+                    "turn:lanes:forward": "left;through|through"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8888027,
+                        47.0329845
+                    ],
+                    [
+                        28.8896417,
+                        47.0332753
                     ]
                 ]
             }
@@ -4503,7 +4193,11 @@
                     "int_ref": "E 584",
                     "lanes": "3",
                     "maxspeed": "50",
-                    "oneway": "yes"
+                    "name": "Bulevardul Rena\u015fterii Na\u0163ionale",
+                    "name:ro": "Bulevardul Rena\u015fterii Na\u0163ionale",
+                    "name:ru": "\u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u0420\u0435\u043d\u0430\u0448\u0442\u0435\u0440\u0438\u0439 \u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u0435",
+                    "oneway": "yes",
+                    "surface": "asphalt"
                 }
             },
             "geometry": {
@@ -4533,7 +4227,8 @@
                     "name": "Bulevardul Rena\u015fterii Na\u0163ionale",
                     "name:ru": "\u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u0420\u0435\u043d\u0430\u0448\u0442\u0435\u0440\u0438\u0439 \u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u0435",
                     "old_name": "\u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u041c\u043e\u043b\u043e\u0434\u0451\u0436\u0438",
-                    "oneway": "yes"
+                    "oneway": "yes",
+                    "surface": "asphalt"
                 }
             },
             "geometry": {
@@ -4600,36 +4295,10 @@
                     [
                         28.8439034,
                         47.0322611
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 711541452,
-                "tags": {
-                    "highway": "primary",
-                    "lanes": "2",
-                    "maxspeed": "50",
-                    "name": "Strada Alexei Mateevici",
-                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u0410\u043b\u0435\u043a\u0441\u0435\u044f \u041c\u0430\u0442\u0435\u0435\u0432\u0438\u0447\u0430",
-                    "old_name": "\u0421\u0430\u0434\u043e\u0432\u0430\u044f \u0443\u043b\u0438\u0446\u0430",
-                    "oneway": "no",
-                    "trolley_wire": "yes"
-                }
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.8228289,
-                        47.0187201
                     ],
                     [
-                        28.8220785,
-                        47.0194367
+                        28.8439504,
+                        47.0322946
                     ]
                 ]
             }
@@ -4703,31 +4372,46 @@
             "type": "Feature",
             "properties": {
                 "type": "way",
-                "id": 723270123,
+                "id": 725098494,
                 "tags": {
-                    "highway": "primary",
-                    "lanes": "3",
-                    "maxspeed": "50",
-                    "name": "Bulevardul Mircea cel B\u0103tr\u00een",
-                    "name:ru": "\u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u041c\u0438\u0440\u0447\u0430 \u0447\u0435\u043b \u0411\u044d\u0442\u0440\u044b\u043d",
-                    "name_1": "bd. Mircea cel B\u0103tr\u00een",
-                    "old_name": "Bulevardul Kutuzov",
-                    "oneway": "yes",
-                    "trolley_wire": "yes",
-                    "wikidata": "Q4381283",
-                    "wikipedia": "ro:Bulevardul Mircea cel B\u0103tr\u00e2n din Chi\u0219in\u0103u"
+                    "highway": "secondary",
+                    "oneway": "yes"
                 }
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8902502,
-                        47.0512845
+                        28.8865205,
+                        47.0122878
                     ],
                     [
-                        28.8902386,
-                        47.0511422
+                        28.8864266,
+                        47.0122085
+                    ],
+                    [
+                        28.8863327,
+                        47.012143
+                    ],
+                    [
+                        28.8861965,
+                        47.0120586
+                    ],
+                    [
+                        28.8860357,
+                        47.0119708
+                    ],
+                    [
+                        28.8859278,
+                        47.0119174
+                    ],
+                    [
+                        28.8858138,
+                        47.0118765
+                    ],
+                    [
+                        28.885649,
+                        47.0118439
                     ]
                 ]
             }
@@ -4760,8 +4444,8 @@
                         47.0393779
                     ],
                     [
-                        28.8823605,
-                        47.0394217
+                        28.8823483,
+                        47.0394328
                     ],
                     [
                         28.8822862,
@@ -4809,7 +4493,7 @@
                 "tags": {
                     "foot": "no",
                     "highway": "primary",
-                    "lanes": "6",
+                    "lanes": "7",
                     "maxspeed": "50",
                     "name": "Strada Alecu Russo",
                     "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u0410\u043b\u0435\u043a\u0443 \u0420\u0443\u0441\u0441\u043e",
@@ -4822,16 +4506,20 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8804139,
-                        47.0400814
+                        28.8813101,
+                        47.039739
                     ],
                     [
-                        28.8801545,
-                        47.0401785
+                        28.8810632,
+                        47.0398385
                     ],
                     [
-                        28.8801124,
-                        47.0401942
+                        28.8806216,
+                        47.0400095
+                    ],
+                    [
+                        28.880421,
+                        47.0400826
                     ]
                 ]
             }
@@ -4930,8 +4618,8 @@
                         47.0439936
                     ],
                     [
-                        28.8638803,
-                        47.0439752
+                        28.8639003,
+                        47.0439712
                     ],
                     [
                         28.8643815,
@@ -4950,16 +4638,16 @@
                         47.0436454
                     ],
                     [
-                        28.8661127,
-                        47.0435314
+                        28.8656902,
+                        47.043615
+                    ],
+                    [
+                        28.866068,
+                        47.0435383
                     ],
                     [
                         28.8663039,
                         47.0434934
-                    ],
-                    [
-                        28.8668337,
-                        47.043388
                     ],
                     [
                         28.866921,
@@ -4970,12 +4658,20 @@
                         47.0433308
                     ],
                     [
+                        28.8671487,
+                        47.0433254
+                    ],
+                    [
+                        28.8672848,
+                        47.0432983
+                    ],
+                    [
                         28.867378,
                         47.0432798
                     ],
                     [
-                        28.8683645,
-                        47.0430837
+                        28.8683671,
+                        47.0430832
                     ],
                     [
                         28.8685942,
@@ -5121,8 +4817,240 @@
                         47.0427256
                     ],
                     [
+                        28.8688863,
+                        47.0429751
+                    ],
+                    [
                         28.8685942,
                         47.043038
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 767983696,
+                "tags": {
+                    "highway": "service",
+                    "oneway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8869941,
+                        47.0046338
+                    ],
+                    [
+                        28.8875769,
+                        47.0046295
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 767983697,
+                "tags": {
+                    "highway": "secondary",
+                    "lanes": "2",
+                    "name": "Strada Maria Dr\u0103gan",
+                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u041c\u0430\u0440\u0438\u0438 \u0414\u0440\u044d\u0433\u0430\u043d"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.885649,
+                        47.0118439
+                    ],
+                    [
+                        28.8864991,
+                        47.0117927
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 767983700,
+                "tags": {
+                    "highway": "primary",
+                    "lanes": "2",
+                    "maxspeed": "50",
+                    "name": "Strada Me\u0219terul Manole",
+                    "name:ro": "Strada Me\u0219terul Manole",
+                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u041c\u0435\u0448\u0442\u0435\u0440\u0443\u043b \u041c\u0430\u043d\u043e\u043b\u0435",
+                    "old_name": "\u0443\u043b\u0438\u0446\u0430 \u0414\u043e\u0431\u0440\u043e\u0432\u043e\u043b\u044c\u0441\u043a\u043e\u0433\u043e",
+                    "oneway": "yes",
+                    "trolley_wire": "yes"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8871413,
+                        47.0180351
+                    ],
+                    [
+                        28.8868581,
+                        47.0153851
+                    ],
+                    [
+                        28.8866015,
+                        47.0129703
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 768001332,
+                "tags": {
+                    "highway": "primary",
+                    "lanes": "3",
+                    "maxspeed": "50",
+                    "name": "Strada Alecu Russo",
+                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u0410\u043b\u0435\u043a\u0443 \u0420\u0443\u0441\u0441\u043e",
+                    "old_name": "\u0443\u043b\u0438\u0446\u0430 \u0424\u0435\u0434\u044c\u043a\u043e",
+                    "oneway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8814264,
+                        47.0396558
+                    ],
+                    [
+                        28.881682,
+                        47.03951
+                    ],
+                    [
+                        28.8819018,
+                        47.0393776
+                    ],
+                    [
+                        28.8819498,
+                        47.0393459
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 768001333,
+                "tags": {
+                    "foot": "no",
+                    "highway": "primary",
+                    "lanes": "6",
+                    "maxspeed": "50",
+                    "name": "Strada Alecu Russo",
+                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u0410\u043b\u0435\u043a\u0443 \u0420\u0443\u0441\u0441\u043e",
+                    "old_name": "\u0443\u043b\u0438\u0446\u0430 \u0424\u0435\u0434\u044c\u043a\u043e",
+                    "postal_code": "MD-2044",
+                    "surface": "asphalt"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.880421,
+                        47.0400826
+                    ],
+                    [
+                        28.8801545,
+                        47.0401785
+                    ],
+                    [
+                        28.8801124,
+                        47.0401942
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 778608950,
+                "tags": {
+                    "highway": "primary",
+                    "int_ref": "E 584",
+                    "lanes": "3",
+                    "maxspeed": "50",
+                    "name": "Bulevardul Grigore Vieru",
+                    "name:ru": "\u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u0413\u0440\u0438\u0433\u043e\u0440\u0438\u044f \u0412\u0438\u0435\u0440\u0443",
+                    "name_1": "bd. Grigore Vieru",
+                    "old_name": "Bulevardul Tineretului",
+                    "oneway": "yes",
+                    "surface": "asphalt",
+                    "trolley_wire": "yes"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8435303,
+                        47.0324073
+                    ],
+                    [
+                        28.8433844,
+                        47.0323073
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 780342603,
+                "tags": {
+                    "highway": "primary",
+                    "int_ref": "E 584",
+                    "lanes": "3",
+                    "maxspeed": "50",
+                    "name": "Bulevardul Grigore Vieru",
+                    "name:ro": "Bulevardul Grigore Vieru",
+                    "name:ru": "\u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u0413\u0440\u0438\u0433\u043e\u0440\u0438\u044f \u0412\u0438\u0435\u0440\u0443",
+                    "name_1": "bd. Grigore Vieru",
+                    "old_name": "Bulevardul Tineretului",
+                    "oneway": "yes",
+                    "surface": "asphalt",
+                    "trolley_wire": "yes"
+                }
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8451669,
+                        47.0331177
+                    ],
+                    [
+                        28.845199,
+                        47.0331412
+                    ],
+                    [
+                        28.8454088,
+                        47.0333239
                     ]
                 ]
             }

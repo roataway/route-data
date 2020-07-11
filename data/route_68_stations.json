@@ -5,19 +5,21 @@
             "type": "Feature",
             "properties": {
                 "type": "node",
-                "id": 325005105,
+                "id": 325004990,
                 "tags": {
+                    "bus": "yes",
                     "highway": "bus_stop",
-                    "name": "Gara Feroviara",
-                    "name:ru": "\u0416\u0435\u043b\u0435\u0437\u043d\u043e\u0434\u043e\u0440\u043e\u0436\u043d\u044b\u0439 \u0432\u043e\u043a\u0437\u0430\u043b. \u0416\u0414 \u0432\u043e\u043a\u0437\u0430\u043b",
+                    "name": "str. 31 August 1989",
+                    "name:ro": "str. 31 August 1989",
+                    "name:ru": "\u0443\u043b. 31 \u0410\u0432\u0433\u0443\u0441\u0442\u0430 1989",
                     "public_transport": "platform"
                 }
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.8582041,
-                    47.0110807
+                    28.8295459,
+                    47.0225088
                 ]
             }
         },
@@ -25,19 +27,21 @@
             "type": "Feature",
             "properties": {
                 "type": "node",
-                "id": 325005107,
+                "id": 325004999,
                 "tags": {
+                    "bus": "yes",
                     "highway": "bus_stop",
-                    "name": "Gara Feroviara",
-                    "name:ru": "\u0416\u0435\u043b\u0435\u0437\u043d\u043e\u0434\u043e\u0440\u043e\u0436\u043d\u044b\u0439 \u0432\u043e\u043a\u0437\u0430\u043b. \u0416\u0414 \u0432\u043e\u043a\u0437\u0430\u043b",
+                    "name": "Bd. \u0218tefan cel Mare \u0219i Sf\u00e2nt",
+                    "name:ro": "Bd. \u0218tefan cel Mare \u0219i Sf\u00e2nt",
+                    "name:ru": "\u041f\u043b\u043e\u0449\u0430\u0434\u044c \u0412\u0435\u043b\u0438\u043a\u043e\u0433\u043e \u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0421\u043e\u0431\u0440\u0430\u043d\u0438\u044f",
                     "public_transport": "platform"
                 }
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.8586766,
-                    47.0111314
+                    28.8349551,
+                    47.0243474
                 ]
             }
         },
@@ -45,19 +49,21 @@
             "type": "Feature",
             "properties": {
                 "type": "node",
-                "id": 340053720,
+                "id": 340052760,
                 "tags": {
+                    "bus": "yes",
+                    "departures_board": "timetable",
                     "highway": "bus_stop",
-                    "name": "bd. Dimitrie Cantemir",
-                    "name:ru": "\u043f\u0440-\u0442 \u0414\u043c\u0438\u0442\u0440\u0438\u044f \u041a\u0430\u043d\u0442\u0435\u043c\u0438\u0440\u0430",
+                    "name": "Gr\u0103dina Public\u0103 \u201e\u0218tefan cel Mare \u0219i Sf\u00eent\u201d",
+                    "name:ru": "\u041e\u0431\u0449\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u043f\u0430\u0440\u043a \u0428\u0442\u0435\u0444\u0430\u043d\u0430 \u0447\u0435\u043b \u041c\u0430\u0440\u0435",
                     "public_transport": "platform"
                 }
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.8516557,
-                    47.0189164
+                    28.8291614,
+                    47.0244375
                 ]
             }
         },
@@ -65,20 +71,20 @@
             "type": "Feature",
             "properties": {
                 "type": "node",
-                "id": 340053722,
+                "id": 340052768,
                 "tags": {
                     "highway": "bus_stop",
-                    "name": "Bulevardul Constantin Negruzzi",
-                    "name:ru": "\u0431\u0443\u043b. \u041d\u0435\u0433\u0440\u0443\u0446\u0446\u0438",
-                    "name_1": "bd. Negruzzi",
+                    "name": "Circul",
+                    "name:en": "Circus",
+                    "name:ru": "\u0426\u0438\u0440\u043a",
                     "public_transport": "platform"
                 }
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.8538448,
-                    47.0136719
+                    28.8494001,
+                    47.036029
                 ]
             }
         },
@@ -86,19 +92,19 @@
             "type": "Feature",
             "properties": {
                 "type": "node",
-                "id": 376339135,
+                "id": 340052769,
                 "tags": {
                     "highway": "bus_stop",
-                    "name": "Calea Basarabiei",
-                    "name:ru": "\u0410\u0441\u0441\u043e\u0446\u0438\u0430\u0446\u0438\u044f \"\u041a\u043e\u0436\u0430\"",
+                    "name": "Circ",
+                    "name:ru": "\u0426\u0438\u0440\u043a",
                     "public_transport": "platform"
                 }
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.8594908,
-                    47.0224474
+                    28.8497218,
+                    47.0366359
                 ]
             }
         },
@@ -106,19 +112,20 @@
             "type": "Feature",
             "properties": {
                 "type": "node",
-                "id": 376339136,
+                "id": 340052772,
                 "tags": {
+                    "bus": "yes",
                     "highway": "bus_stop",
-                    "name": "Calea Basarabiei",
-                    "name:ru": "\u041a\u043e\u0436\u0437\u0430\u0432\u043e\u0434",
+                    "name": "Bulevardul Grigore Vieru",
+                    "name:ru": "\u0411\u0443\u043b\u044c\u0432\u0430\u0440 \u0413\u0440\u0438\u0433\u043e\u0440\u0438\u044f \u0412\u0438\u0435\u0440\u0443",
                     "public_transport": "platform"
                 }
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.8603874,
-                    47.022765
+                    28.8389082,
+                    47.0287624
                 ]
             }
         },
@@ -126,19 +133,64 @@
             "type": "Feature",
             "properties": {
                 "type": "node",
-                "id": 376339139,
+                "id": 340052773,
                 "tags": {
+                    "bus": "yes",
                     "highway": "bus_stop",
-                    "name": "Strada Alexandru H\u00e2jdeu",
-                    "name:ru": "\u0443\u043b. \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0430 \u0425\u044b\u0436\u0434\u0435\u0443",
+                    "name": "str. Columna",
+                    "name:ru": "\u0443\u043b. \u041a\u043e\u043b\u0443\u043c\u043d\u0430",
+                    "old_name": "\u0443\u043b. \u0424\u0440\u0443\u043d\u0437\u0435",
                     "public_transport": "platform"
                 }
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.8529655,
-                    47.0204126
+                    28.8335423,
+                    47.0274523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 340052774,
+                "tags": {
+                    "bus": "yes",
+                    "highway": "bus_stop",
+                    "name": "Strada Kiev",
+                    "name:ru": "\u0423\u043b\u0438\u0446\u0430 \u041a\u0438\u0435\u0432",
+                    "public_transport": "platform",
+                    "shelter": "yes",
+                    "tactile_paving": "no"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.8598234,
+                    47.0401998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 340052776,
+                "tags": {
+                    "highway": "bus_stop",
+                    "name": "str. Nicolae Dimo",
+                    "name:ru": "\u0443\u043b. \u041d\u0438\u043a\u043e\u043b\u0430\u044f \u0414\u0438\u043c\u043e",
+                    "public_transport": "platform"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.8673308,
+                    47.0431908
                 ]
             }
         },
@@ -148,8 +200,9 @@
                 "type": "node",
                 "id": 376339208,
                 "tags": {
+                    "bus": "yes",
                     "highway": "bus_stop",
-                    "name": "\u015ecoala Medie pe Schimburi nr. 3",
+                    "name": "\u015ecoala medie pe Schimburi nr. 3",
                     "public_transport": "platform"
                 }
             },
@@ -167,6 +220,7 @@
                 "type": "node",
                 "id": 376339210,
                 "tags": {
+                    "bus": "yes",
                     "highway": "bus_stop",
                     "name": "Asocia\u021bia \"Beton Armat\"",
                     "name:ru": "\u0410\u0441\u0441\u043e\u0446\u0438\u0430\u0446\u0438\u044f \"\u0410\u0440\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439 \u0431\u0435\u0442\u043e\u043d\"",
@@ -176,68 +230,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.8870378,
-                    47.0051772
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "node",
-                "id": 376339213,
-                "tags": {
-                    "highway": "bus_stop",
-                    "name": "Asocia\u021bia \"Agroma\u0219ina\"",
-                    "name:ru": "\u0410\u0441\u0441\u043e\u0446\u0438\u0430\u0446\u0438\u044f \"\u0410\u0433\u0440\u043e\u043c\u0430\u0448\u0438\u043d\u0430\"",
-                    "public_transport": "platform"
-                }
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    28.8802687,
-                    47.0086455
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "node",
-                "id": 376339215,
-                "tags": {
-                    "highway": "bus_stop",
-                    "name": "Asocia\u021bia \"Agroma\u0219ina\"",
-                    "name:ru": "\u0410\u0441\u0441\u043e\u0446\u0438\u0430\u0446\u0438\u044f \"\u0410\u0433\u0440\u043e\u043c\u0430\u0448\u0438\u043d\u0430\"",
-                    "public_transport": "platform"
-                }
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    28.8785616,
-                    47.0096376
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "node",
-                "id": 376339219,
-                "tags": {
-                    "highway": "bus_stop",
-                    "name": "Asociatia \"Vitanta\"",
-                    "name:ru": "\u0410\u0441\u0441\u043e\u0446\u0438\u0430\u0446\u0438\u044f \"\u0412\u0438\u0442\u0430\u043d\u0442\u0430\"",
-                    "public_transport": "platform"
-                }
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    28.8997748,
-                    46.9967548
+                    28.8870405,
+                    47.0051717
                 ]
             }
         },
@@ -247,8 +241,9 @@
                 "type": "node",
                 "id": 376339221,
                 "tags": {
+                    "bus": "yes",
                     "highway": "bus_stop",
-                    "name": "\u015ecoala Medie pe Schimburi nr. 3",
+                    "name": "\u015ecoala medie pe Schimburi nr. 3",
                     "public_transport": "platform"
                 }
             },
@@ -266,6 +261,7 @@
                 "type": "node",
                 "id": 376339222,
                 "tags": {
+                    "bus": "yes",
                     "highway": "bus_stop",
                     "name": "Asocia\u0163ia \"Efes-Vitanta\"",
                     "name:ru": "\u0410\u0441\u0441\u043e\u0446\u0438\u0430\u0446\u0438\u044f \"\u042d\u0444\u0435\u0441-\u0412\u0438\u0442\u0430\u043d\u0442\u0430\"",
@@ -284,18 +280,19 @@
             "type": "Feature",
             "properties": {
                 "type": "node",
-                "id": 376339225,
+                "id": 376339280,
                 "tags": {
                     "highway": "bus_stop",
-                    "name": "Asocia\u0163ia \"Cerealiere\"",
+                    "name": "str. Eugen Doga",
+                    "name:ru": "\u0443\u043b. \u0415\u0432\u0433\u0435\u043d\u0438\u044f \u0414\u043e\u0433\u0438",
                     "public_transport": "platform"
                 }
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.8704309,
-                    47.0181662
+                    28.8390869,
+                    47.0294757
                 ]
             }
         },
@@ -303,18 +300,20 @@
             "type": "Feature",
             "properties": {
                 "type": "node",
-                "id": 376339226,
+                "id": 376339396,
                 "tags": {
+                    "bus": "yes",
                     "highway": "bus_stop",
-                    "name": "Asocia\u0163ia \"Cerialiere\"",
+                    "name": "str. Voluntarilor",
+                    "name:ru": "\u0443\u043b. \u0412\u043e\u043b\u0443\u043d\u0442\u0430\u0440\u0438\u043b\u043e\u0440 (\u0414\u043e\u0431\u0440\u043e\u0432\u043e\u043b\u044c\u0446\u0435\u0432)",
                     "public_transport": "platform"
                 }
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.8708503,
-                    47.0180956
+                    28.8881514,
+                    47.0114986
                 ]
             }
         },
@@ -322,18 +321,20 @@
             "type": "Feature",
             "properties": {
                 "type": "node",
-                "id": 376339230,
+                "id": 376339398,
                 "tags": {
+                    "bus": "yes",
                     "highway": "bus_stop",
-                    "name": "Asocia\u0163ia \"Tutun-CTC\"",
+                    "name": "Asocia\u0163ia \"Introscop\"",
+                    "name:ru": "\u0410\u0441\u0441\u043e\u0446\u0438\u0430\u0446\u0438\u044f \"\u0418\u043d\u0442\u0440\u043e\u0441\u043a\u043e\u043f\"",
                     "public_transport": "platform"
                 }
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.8671697,
-                    47.0223274
+                    28.8864942,
+                    47.0129643
                 ]
             }
         },
@@ -341,19 +342,20 @@
             "type": "Feature",
             "properties": {
                 "type": "node",
-                "id": 376339233,
+                "id": 376339423,
                 "tags": {
+                    "bus": "yes",
                     "highway": "bus_stop",
-                    "name": "Keramin",
-                    "name:ru": "\u041a\u0435\u0440\u0430\u043c\u0438\u043d",
+                    "name": "strada Otovasca",
+                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u041e\u0442\u043e\u0432\u0430\u0441\u043a\u0430",
                     "public_transport": "platform"
                 }
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.8763751,
-                    47.0121854
+                    28.8932796,
+                    47.0069914
                 ]
             }
         },
@@ -361,19 +363,20 @@
             "type": "Feature",
             "properties": {
                 "type": "node",
-                "id": 376339234,
+                "id": 376339462,
                 "tags": {
+                    "bus": "yes",
                     "highway": "bus_stop",
-                    "name": "Keramin",
-                    "name:ru": "\u041a\u0435\u0440\u0430\u043c\u0438\u043d",
+                    "name": "strada Movileni",
+                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u041c\u043e\u0432\u0438\u043b\u0435\u043d\u044c",
                     "public_transport": "platform"
                 }
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.8765952,
-                    47.0116154
+                    28.8959262,
+                    47.0019634
                 ]
             }
         },
@@ -381,19 +384,20 @@
             "type": "Feature",
             "properties": {
                 "type": "node",
-                "id": 376339237,
+                "id": 376339469,
                 "tags": {
+                    "bus": "yes",
                     "highway": "bus_stop",
-                    "name": "Centrul Comercial \"Progres\"",
-                    "name:ru": "\u041a\u043e\u043c\u043c\u0435\u0440\u0447\u0435\u0441\u043a\u0438\u0439 \u0446\u0435\u043d\u0442\u0440 \"\u041f\u0440\u043e\u0433\u0440\u0435\u0441\u0441\"",
+                    "name": "Uzina \"MoldovaHidro-Ma\u0219\"",
+                    "name:ru": "\u0417\u0430\u0432\u043e\u0434 \"\u041c\u043e\u043b\u0434\u043e\u0432\u0430 \u0413\u0438\u0434\u0440\u043e\u043c\u0430\u0448\"",
                     "public_transport": "platform"
                 }
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.8737847,
-                    47.0148863
+                    28.886752,
+                    47.0153732
                 ]
             }
         },
@@ -401,19 +405,20 @@
             "type": "Feature",
             "properties": {
                 "type": "node",
-                "id": 376339239,
+                "id": 376339471,
                 "tags": {
+                    "bus": "yes",
                     "highway": "bus_stop",
-                    "name": "Centrul Comercial \"Progres\"",
-                    "name:ru": "\u041a\u043e\u043c\u043c\u0435\u0440\u0447\u0435\u0441\u043a\u0438\u0439 \u0446\u0435\u043d\u0442\u0440 \"\u041f\u0440\u043e\u0433\u0440\u0435\u0441\u0441\"",
+                    "name": "strada Movileni",
+                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u041c\u043e\u0432\u0438\u043b\u0435\u043d\u044c",
                     "public_transport": "platform"
                 }
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.8736119,
-                    47.0147515
+                    28.8956752,
+                    47.0025106
                 ]
             }
         },
@@ -421,19 +426,20 @@
             "type": "Feature",
             "properties": {
                 "type": "node",
-                "id": 376339304,
+                "id": 461604330,
                 "tags": {
+                    "bus": "yes",
                     "highway": "bus_stop",
-                    "name": "Hotel Cosmos",
-                    "name:ru": "\u0413\u043e\u0441\u0442\u0438\u043d\u0438\u0446\u0430 \u00ab\u041a\u043e\u0441\u043c\u043e\u0441\u00bb",
+                    "name": "Strada Roman\u0103",
+                    "name:ru": "\u0423\u043b\u0438\u0446\u0430 \u0420\u043e\u043c\u0430\u043d\u044d",
                     "public_transport": "platform"
                 }
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.8548825,
-                    47.0145921
+                    28.8427846,
+                    47.032016
                 ]
             }
         },
@@ -441,19 +447,19 @@
             "type": "Feature",
             "properties": {
                 "type": "node",
-                "id": 376339379,
+                "id": 461604331,
                 "tags": {
+                    "bus": "yes",
                     "highway": "bus_stop",
-                    "name": "str. Ismail",
-                    "name:ru": "\u0418\u0437\u043c\u0430\u0438\u043b\u044c\u0441\u043a\u0430\u044f \u0443\u043b.",
+                    "name": "Strada Roman\u0103",
                     "public_transport": "platform"
                 }
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.8474454,
-                    47.0166431
+                    28.8445018,
+                    47.032573
                 ]
             }
         },
@@ -461,19 +467,20 @@
             "type": "Feature",
             "properties": {
                 "type": "node",
-                "id": 633621366,
+                "id": 461604332,
                 "tags": {
+                    "bus": "yes",
                     "highway": "bus_stop",
-                    "name": "Gara de Nord",
-                    "name:ru": "\"\u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439\" \u0430\u0432\u0442\u043e\u0432\u043e\u043a\u0437\u0430\u043b",
+                    "name": "Strada Alecu Russo",
+                    "name:ru": "\u0423\u043b\u0438\u0446\u0430 \u0410\u043b\u0435\u043a\u0443 \u0420\u0443\u0441\u0441\u043e",
                     "public_transport": "platform"
                 }
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.8639933,
-                    47.0232259
+                    28.8627685,
+                    47.0440592
                 ]
             }
         },
@@ -481,19 +488,24 @@
             "type": "Feature",
             "properties": {
                 "type": "node",
-                "id": 633621369,
+                "id": 527885215,
                 "tags": {
+                    "bench": "yes",
+                    "bus": "yes",
+                    "covered": "yes",
                     "highway": "bus_stop",
-                    "name": "Gara de Nord",
-                    "name:ru": "\"\u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439\" \u0430\u0432\u0442\u043e\u0432\u043e\u043a\u0437\u0430\u043b",
-                    "public_transport": "platform"
+                    "name": "str. Mihail Sadoveanu",
+                    "name:ro": "str. Mihail Sadoveanu",
+                    "name:ru": "\u0443\u043b. \u041c\u0438\u0445\u0430\u0438\u043b \u0421\u0430\u0434\u043e\u0432\u044f\u043d\u0443",
+                    "public_transport": "platform",
+                    "shelter": "yes"
                 }
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.8640608,
-                    47.0230406
+                    28.8845789,
+                    47.0381312
                 ]
             }
         },
@@ -501,19 +513,20 @@
             "type": "Feature",
             "properties": {
                 "type": "node",
-                "id": 652050231,
+                "id": 1216583421,
                 "tags": {
+                    "bus": "yes",
                     "highway": "bus_stop",
-                    "name": "str. Industrial\u0103",
-                    "name:ru": "\u0418\u043d\u0434\u0443\u0441\u0442\u0440\u0438\u0430\u043b\u044c\u043d\u0430\u044f \u0443\u043b.",
+                    "name": "strada Otovasca",
+                    "name:ru": "\u0443\u043b\u0438\u0446\u0430 \u041e\u0442\u043e\u0432\u0430\u0441\u043a\u0430",
                     "public_transport": "platform"
                 }
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.905795,
-                    46.9949938
+                    28.8924101,
+                    47.008063
                 ]
             }
         },
@@ -521,19 +534,22 @@
             "type": "Feature",
             "properties": {
                 "type": "node",
-                "id": 652050233,
+                "id": 1554651685,
                 "tags": {
+                    "bus": "yes",
+                    "departures_board": "timetable",
                     "highway": "bus_stop",
-                    "name": "str. Industrial\u0103",
-                    "name:ru": "\u0418\u043d\u0434\u0443\u0441\u0442\u0440\u0438\u0430\u043b\u044c\u043d\u0430\u044f \u0443\u043b.",
-                    "public_transport": "platform"
+                    "name": "Strada Nicolae Dimo",
+                    "name:ru": "\u0423\u043b\u0438\u0446\u0430 \u041d\u0438\u043a\u043e\u043b\u0430\u044f \u0414\u0438\u043c\u043e",
+                    "public_transport": "platform",
+                    "shelter": "yes"
                 }
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.9053127,
-                    46.9949238
+                    28.8661172,
+                    47.0436402
                 ]
             }
         },
@@ -541,19 +557,90 @@
             "type": "Feature",
             "properties": {
                 "type": "node",
-                "id": 1216583531,
+                "id": 1554651691,
                 "tags": {
                     "highway": "bus_stop",
-                    "name": "Asociatia \"Vitanta\"",
-                    "name:ru": "\u0410\u0441\u0441\u043e\u0446\u0438\u0430\u0446\u0438\u044f \"\u0412\u0438\u0442\u0430\u043d\u0442\u0430\"",
+                    "name": "Bogdan Voievod",
+                    "name:ro": "Bogdan Voievod",
+                    "name:ru": "\u0411\u043e\u0433\u0434\u0430\u043d \u0412\u043e\u0435\u0432\u043e\u0434",
                     "public_transport": "platform"
                 }
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.8988994,
-                    46.9972795
+                    28.8597773,
+                    47.0441788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 1723817019,
+                "tags": {
+                    "bench": "yes",
+                    "covered": "yes",
+                    "highway": "bus_stop",
+                    "name": "str. Alecu Russo",
+                    "name:ru": "\u0443\u043b. \u0410\u043b\u0435\u043a\u0443 \u0420\u0443\u0441\u0441\u043e",
+                    "public_transport": "platform",
+                    "shelter": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.887358,
+                    47.0372194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 3856161595,
+                "tags": {
+                    "bench": "yes",
+                    "covered": "yes",
+                    "highway": "bus_stop",
+                    "name": "str. Mihail Sadoveanu",
+                    "name:ro": "str. Mihail Sadoveanu",
+                    "name:ru": "\u0443\u043b. \u041c\u0438\u0445\u0430\u0438\u043b \u0421\u0430\u0434\u043e\u0432\u044f\u043d\u0443",
+                    "public_transport": "platform",
+                    "shelter": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.8847033,
+                    47.0384098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 3861263969,
+                "tags": {
+                    "bench": "yes",
+                    "covered": "yes",
+                    "highway": "bus_stop",
+                    "name": "Me\u015fterul Manole",
+                    "name:ru": "\u0443\u043b. \u041c\u0430\u0441\u0442\u0435\u0440\u0430 \u041c\u0430\u043d\u043e\u043b\u0435 (\u041c\u0435\u0448\u0442\u0435\u0440\u0443\u043b \u041c\u0430\u043d\u043e\u043b\u0435)",
+                    "public_transport": "platform",
+                    "shelter": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.8882772,
+                    47.0365479
                 ]
             }
         },
@@ -573,8 +660,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.8869455,
-                    47.0045905
+                    28.8869884,
+                    47.0045777
                 ]
             }
         },
@@ -582,18 +669,20 @@
             "type": "Feature",
             "properties": {
                 "type": "node",
-                "id": 4563611331,
+                "id": 4566489112,
                 "tags": {
+                    "bus": "yes",
                     "highway": "bus_stop",
-                    "name": "Asocia\u0163ia \"Tutun-CTC\"",
+                    "name": "Asocia\u0163ia \"Efes-Vitanta\"",
+                    "name:ru": "\u0410\u0441\u0441\u043e\u0446\u0438\u0430\u0446\u0438\u044f \"\u042d\u0444\u0435\u0441-\u0412\u0438\u0442\u0430\u043d\u0442\u0430\"",
                     "public_transport": "platform"
                 }
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.867647,
-                    47.0221375
+                    28.8963198,
+                    46.9983867
                 ]
             }
         },
@@ -601,37 +690,20 @@
             "type": "Feature",
             "properties": {
                 "type": "node",
-                "id": 6416154914,
+                "id": 4566499748,
                 "tags": {
+                    "bus": "yes",
                     "highway": "bus_stop",
-                    "name": "Terminus",
+                    "name": "Tipografia central\u0103",
+                    "name:ru": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u0442\u0438\u043f\u043e\u0433\u0440\u0430\u0444\u0438\u044f",
                     "public_transport": "platform"
                 }
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.9379293,
-                    46.9842415
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "node",
-                "id": 6416154915,
-                "tags": {
-                    "highway": "bus_stop",
-                    "name": "Terminus",
-                    "public_transport": "platform"
-                }
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    28.9379024,
-                    46.9840914
+                    28.8530971,
+                    47.0425074
                 ]
             }
         }
